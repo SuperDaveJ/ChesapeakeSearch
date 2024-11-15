@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" dlink="yes" has_graphic="no" has_popup="no" has_audio="yes" layout="full_screen" pg_num="08">
+
+	<nav prev_page="05_00_007.html" next_page="05_00_009.html" />
+
+	<title>Conducting a Landgrid Search</title>
+	
+	<text_content>
+		<paragraph>VAL has several different methods for finding a location. One of these is the Landgrid search. You have the option to search by the following Landgrid parameters:</paragraph>
+		<bullets type="unordered">
+			<li>State/County</li>
+			<li>State/County/Township/Range</li>
+			<li>State/County/Township/Range/Section</li>
+			<li>Parcel ID</li>
+		</bullets>
+		<paragraph>The other search methods found under this tab are Asset and Location search. The demonstration below describes the steps for conducting a Landgrid Search using the State/County/Township/Range parameters. Select Play to view the demonstration.</paragraph>
+	</text_content>
+	
+	<prompt>CLICK PLAY TO VIEW THE DEMONSTRATION. THEN CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>05_00_004-a1</filename>
+			<cc_text>
+				<paragraph>VAL has a few different methods for finding a location. You can find a location by using the Asset, Landgrid or Location search. As an example, we will focus on the steps to take to conduct a Landgrid search using the State/County/Township/Range parameters. When you have finished reading the text on this screen, click on the Play button to view a demonstration on how to conduct a Landgrid Search.</paragraph>
+				<paragraph>Begin your VAL search at the Search Toolbar.</paragraph>
+				<paragraph>Click the Search dropdown list. By default, the Asset search is active.</paragraph>
+				<paragraph>Select the Landgrid Search. The Landgrid Search popup box displayed.</paragraph>
+				<paragraph>Click the small arrow to the right, in the State dropdown list. The State dropdown list expands.</paragraph>
+				<paragraph>Select Oklahoma. OKLAHOMA is displayed.</paragraph>
+				<paragraph>Click the small arrow to the right, in the "County" dropdown list. The County dropdown list expands.</paragraph>
+				<paragraph>Select Roger Mills. ROGER MILLS is displayed.</paragraph>
+				<paragraph>Type a number in the Township (Twp) field.</paragraph>
+				<paragraph>Type a number in the Range (Rng) field.</paragraph>
+				<paragraph>Once the search criteria have been filled in click the Search button. The data grid will expand with the results. You can also hit the Enter key on your keyboard, instead of the Search button.</paragraph>
+				<paragraph>Click a record within the data grid. The map will zoom in to that record.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative of the demonstration.</linkTxt>
+		<linkTo>05_00_008-p1.pdf</linkTo>
+	</dlink>
+	
+</page>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" dlink="no" has_graphic="yes" has_popup="yes" has_audio="yes" layout="v_txt_img" pg_num="07">
+
+	<nav prev_page="05_00_006.html" next_page="05_00_008.html" />
+
+	<mod_title id="5">Map Search</mod_title>
+	
+	<pg_title>The Application Menu Bar</pg_title>
+	
+	<text_content>
+		<paragraph>The Application Menu Bar contains three main groupings of commands to help you conduct a Map search and to interact with the results. These are the Search and Analysis Toolbars, and the Help dropdown list. Click on each of the "plus" (+) buttons below to learn about each.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="28">
+		<filename>05_00_007.png</filename>
+		<alt>Screenshot of the Map tab.</alt>
+	</graphic>
+	
+	<prompt>CLICK ON EACH OF THE PLUS BUTTONS TO LEARN MORE. THEN CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>05_00_007-a1</filename>
+			<cc_text>
+				<paragraph>The Application Menu Bar contains three main groupings of commands to help you conduct a Map search and to interact with the results. These are the Search and Analysis Toolbars, and the Help dropdown list. Click on each of the plus buttons below to learn about each.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<popups>
+	  <popup id="1" has_image="yes">
+		  <popTitle>Search Toolbar</popTitle>
+		  <popText>
+			  <paragraph>Using Search is the best method to quickly navigate to your geographic area. The Search toolbar contains these commands:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>Open (Open Saved Session)</bullet>
+				  <bullet>Save New Session</bullet>
+				  <bullet>Print Map (to a PDF or Other Formats)</bullet>
+				  <bullet>Search Type (assets, landgrid, or cultural locations)</bullet>
+				  <bullet>Search</bullet>
+			  </bullets>
+		  </popText>
+		  
+		  <popImg>
+			<filename>05_00_007_g4.jpg</filename>
+			<alt>Graphic of the Search toolbar with the Search Type dropdown list expanded.</alt>
+		  </popImg>
+	  </popup>
+
+	  <popup id="2" has_image="yes">
+		  <popTitle>Base Map (Set Base Reference Map)</popTitle>
+		  <popText>
+			  <paragraph>Selecting the Basemap button expands to show a list of the different basemaps (e.g., Roads (Bing), Imagery (Bing), Topo (ESRI) and Roads (ESRI)) that can be used to change the map format.</paragraph>
+		  </popText>
+		  
+		  <popImg>
+			<filename>05_00_007_g5a.jpg</filename>
+			<alt>Graphic collage of the Analysis toolbar with the Basemap dropdown list expanded.</alt>
+		  </popImg>
+	  </popup>
+
+	  <popup id="3" has_image="yes">
+		  <popTitle>Drawing Tools (Show/Hide Drawing Tools)</popTitle>
+		  <popText>
+			  <paragraph>Selecting the Drawing Tools button expands to show various drawing options such as, Draw a Point, Draw a Line, Draw Freeform and Draw Text.</paragraph>
+		  </popText>
+		  
+		  <popImg>
+			<filename>05_00_007_g5b.jpg</filename>
+			<alt>Graphic collage of the Analysis toolbar with the Drawing Tools expanded.</alt>
+		  </popImg>
+	  </popup>
+
+	  <popup id="4" has_image="yes">
+		  <popTitle>Analysis Tools (Show/Hide Analysis Tools)</popTitle>
+		  <popText>
+			  <paragraph>When the Analysis Tools button is selected it expands horizontally to display options such as Identify and Identify Buffer.</paragraph>
+		  </popText>
+		  
+		  <popImg>
+			<filename>05_00_007_g5c.jpg</filename>
+			<alt>Graphic collage of the Analysis toolbar with the Analysis Tools expanded.</alt>
+		  </popImg>
+	  </popup>
+
+	  <popup id="5" has_image="yes">
+		  <popTitle>Help</popTitle>
+		  <popText>
+			  <paragraph>The Help dropdown list provides a list of the different ways you can receive assistance and report issues with CHK Search. These options are:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>Quick Reference Help</bullet>
+				  <bullet>View Demo</bullet>
+				  <bullet>Leave Feedback</bullet>
+				  <bullet>Report Data Problem</bullet>
+				  <bullet>Report a Problem</bullet>
+				  <bullet>About</bullet>
+			  </bullets>
+		  </popText>
+		  
+		  <popImg>
+			<filename>05_00_007_g6.jpg</filename>
+			<alt>Graphic of the expanded Help dropdown list.</alt>
+		  </popImg>
+	  </popup>
+
+	</popups>
+
+</page>

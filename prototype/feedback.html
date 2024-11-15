@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Question Feedback</title>
+<script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="query_function.js"></script>
+<script type="text/javascript">
+
+var pid = parseInt($.getUrlVar('pid'));
+
+$(document).ready(function(e) {
+    //$("#pop_title").html( opener.popups[pid-1].title );
+	$("#pop_text").html( opener.popups[pid-1].content );
+});
+</script>
+</head>
+
+<body>
+
+<div id="pop_title">Question Feedback</div>
+
+<div id="pop_text">&nbsp;</div>
+
+</body>
+</html>

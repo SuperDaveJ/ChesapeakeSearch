@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Course Menu</title>
+<style type="text/css">
+#container {
+	background: url(sysimages/Chesp_Search_CourseMenu.jpg) no-repeat;
+	background-color:#fff;
+	position:relative;
+	width: 960px;
+	min-width: 960px;
+	height: 573px;
+	min-height: 573px;
+	margin: 0 auto;
+}
+
+#modules {
+	position: absolute;
+	left: 262px;
+	top: 144px;
+	width: 453px;
+	height: 359px;
+}
+img {border:0;}
+</style>
+
+<script type="text/javascript">
+function updateMenu() {
+	var nCompleted = 0;
+	
+	for (i=0; i<parent.nModules; i++) {
+		blnIncomp = false;
+		iTemp = parent.getModuleStatus(i);
+		if (iTemp == 2) {
+			//eval("document.getElementById('chk" + (i+1) + "').style.visibility = 'visible'");
+			nCompleted += 1;
+		} else {
+			//eval("document.getElementById('chk" + (i+1) + "').style.visibility = 'hidden'");
+		}
+	}
+//alert("moduleStatus = " + parent.moduleStatus + "\n\r nCompleted = " + nCompleted);	
+}
+</script>
+
+</head>
+
+<body onload="self.focus();updateMenu();">
+<div id="container">
+
+<div id="modules">
+  <div style="position: relative; top: 0px;"><a href="module1/01_00_001.html"><img src="sysimages/mmbutt_mod1_0.png" onmouseover="this.src='sysimages/mmbutt_mod1_2.png'" onmouseout="this.src='sysimages/mmbutt_mod1_0.png'" width="445" height="51" alt="Module 1: Course Introduction and CHK Search Overview" ></a></div>
+<div style="position: absolute; top: 67px;"><a href="module2/02_00_001.html" ><img src="sysimages/mmbutt_mod2_0.png" onmouseover="this.src='sysimages/mmbutt_mod2_2.png'" onmouseout="this.src='sysimages/mmbutt_mod2_0.png'" width="445" height="51" alt="Module 2: Wells/Sites Search"></a></div>
+<div style="position: absolute; top: 128px; left: 1px;"><a href="module3/03_00_001.html"><img src="sysimages/mmbutt_mod3_0.png" onmouseover="this.src='sysimages/mmbutt_mod3_2.png'" onmouseout="this.src='sysimages/mmbutt_mod3_0.png'" width="445" height="51" alt="Module 3: Contracts Search"></a></div>
+<div style="position: absolute; top: 191px; left: 1px;"><a href="module4/04_00_001.html"><img src="sysimages/mmbutt_mod4_0.png" onmouseover="this.src='sysimages/mmbutt_mod4_2.png'" onmouseout="this.src='sysimages/mmbutt_mod4_0.png'" width="445" height="51" alt="Module 4: Leases Search"></a></div>
+<div style="position: absolute; top: 254px; left: 1px;"><a href="module5/05_00_001.html"><img src="sysimages/mmbutt_mod5_0.png" onmouseover="this.src='sysimages/mmbutt_mod5_2.png'" onmouseout="this.src='sysimages/mmbutt_mod5_0.png'" width="445" height="51" alt="Module 5: Map Search"></a></div>
+<div style="position: absolute; top: 320px; left: 1px;"><a href="module6/06_00_001.html"><img src="sysimages/mmbutt_mod6_0.png" onmouseover="this.src='sysimages/mmbutt_mod6_2.png'" onmouseout="this.src='sysimages/mmbutt_mod6_0.png'" width="445" height="51" alt="Module 6: Course Summary"></a>
+ </div> 
+</div>
+
+</div>
+</body>
+</html>

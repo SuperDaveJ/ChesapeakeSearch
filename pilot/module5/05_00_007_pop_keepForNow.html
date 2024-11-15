@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Popup Info</title>
+<link rel="stylesheet" type="text/css" href="../styles/search_pop_sb.css" />
+<style type="text/css">
+img.thumbnail {
+	border:none;
+	margin-right: 20px;
+}
+</style>
+
+<script type="text/javascript" src="../scripts/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="../scripts/query_function.js"></script>
+<script type="text/javascript">
+
+var pid = parseInt($.getUrlVar('pid'));
+
+strTemp = "<div><img id='tn1' class='thumbnail' src='images/05_00_007_1a.jpg' alt='Base Reference Map Roads (Bing).' /> <img id='tn2' class='thumbnail' src='images/05_00_007_1b.jpg' alt='Base Reference Map Imagery (Bing).' /> <img id='tn3' class='thumbnail' src='images/05_00_007_1c.jpg' alt='Base Reference Map Topo (ESRI).' /> <img id='tn4' class='thumbnail' src='images/05_00_007_1d.jpg' alt='Base Reference Map Roads (ESRI).' /></div>"
+
+$(document).ready(function(e) {
+    $("#popTitle>h1.popupH").html( parent.popups[pid-1].popTitle );
+	if ( pid == 2 ) {
+		$("#txt").html( parent.popups[pid-1].popTxt + strTemp );
+	} else {
+		$("#txt").html( parent.popups[pid-1].popTxt );
+	}
+	imgHTML = "<img src='images/" + parent.popups[pid-1].imgFile + "' alt='" + parent.popups[pid-1].imgAlt + "' />"
+	$("#graf").html( imgHTML );
+});
+</script>
+</head>
+
+<body>
+<div id='popTitle'><h1 class='popupH'></h1></div>
+
+<div id="contentArea">
+
+<div id="txt">
+</div>
+
+<div id="graf">
+</div>
+
+</div>
+
+<div id="close">
+<a href="javascript:parent.Shadowbox.close()">
+<img src="../shadowbox/close_black.png" width="16" height="16" border="0" alt="close" /></a></div>
+
+<body>
+</body>
+</html>

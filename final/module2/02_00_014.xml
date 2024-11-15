@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="14">
+
+	<nav prev_page="02_00_013.html" next_page="02_00_015.html" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+	
+	<pg_title>Customize Search Results Part 1</pg_title>
+	
+	<text_content>
+		<paragraph>There are about 4 ways to customize search results to change how they are displayed in the Data Grid:</paragraph>
+		<bullets type="unordered" columns="2">
+			<bullet>Sort by Column</bullet>
+			<bullet>Rearrange Columns</bullet>
+			<bullet>Change Columns to Display</bullet>
+			<bullet>Group by Column</bullet>
+		</bullets>
+		<paragraph>The demonstration below describes the steps for customizing search results by using the Sorting by Column and Rearrange Columns methods. The other two methods will be discussed in a later module. Select Play to view the demonstration.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="48">
+		<filename>02_00_014a.png</filename>
+		<alt>Graphic screenshot of the Show Me interaction, with a Play button overlaid.</alt>
+	</graphic>
+	
+	<prompt>SELECT PLAY TO VIEW THE DEMONSTRATION. THEN SELECT THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>02_00_014_1</filename>
+			<cc_text>
+				<paragraph>There are about 4 ways to customize search results to change how they are displayed in the Data Grid:</paragraph>
+				<bullets type="unordered">
+					<bullet>Sort by Column</bullet>
+					<bullet>Rearrange Columns</bullet>
+					<bullet>Change Columns to Display</bullet>
+					<bullet>Group by Column</bullet>
+				</bullets>
+				<paragraph>The demonstration below describes the steps for customizing search results by using the Sorting by Column and Rearrange Columns methods. The other two methods will be discussed in a later module. Select Play to view the demonstration.</paragraph>
+				<paragraph>To sort by column, select any column name to sort search results by that column.</paragraph>
+				<paragraph>Click the Property Number column. The properties are displayed by ascending number. That means they are arranged from the smallest to the largest property number.</paragraph>
+				<paragraph>Click the Property Number column again. The properties are displayed by descending number. That means they are arranged from the largest to the smallest property number.</paragraph>
+				<paragraph>To rearrange columns, select a column name and drag the column to a new location.</paragraph>
+				<paragraph>Click the Status column and drag it to the right of the Property Name column.</paragraph>
+				<paragraph>The Status column is now located to the right of the Property Name column.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative of the demonstration.</linkTxt>
+		<linkTo>02_00_014_508.pdf</linkTo>
+	</dlink>
+	
+</page>

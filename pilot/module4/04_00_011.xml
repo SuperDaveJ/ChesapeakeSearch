@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page type="question" q_type="scenario" enable_next="no" has_graphic="no" layout="h_txt_img" pg_num="11">
+
+	<nav prev_page="04_00_010.html" next_page="04_00_012.html" />
+
+	<mod_title id="4">Leases Search</mod_title>
+	
+	<pg_title>Scenario-based Exercise</pg_title>
+	
+	<steps>
+		<paragraph>Follow the steps listed to complete this activity.</paragraph>
+		<bullets type="ordered" lstyle="default" columns="1">
+			<bullet>Refer to this module’s Demonstrations and  Job Aids to assist you with this exercise.</bullet>
+			<bullet>In a new Browser window, launch CHK Search and select the appropriate tab to conduct a Leases search.</bullet>
+			<bullet txt="Enter the information below in the fields (information displayed in bold within parenthesis should be what you input into each field on the system form) to conduct the Leases search:">
+				<bullets type="ordered" lstyle="lower_alpha">
+					<bullet>State (&lt;b&gt;OK&lt;/b&gt;)</bullet>
+					<bullet>Township(s) (&lt;b&gt;1N,3N&lt;/b&gt;)</bullet>
+					<bullet>Range(s) (&lt;b&gt;6W,7W&lt;/b&gt;)</bullet>
+				</bullets>
+			</bullet>
+			<bullet txt="Generate a graph for all the search results. Select the information below for each Dropdown list (information displayed in bold within parenthesis should be what you select):">
+				<bullets type="ordered" lstyle="lower_alpha">
+					<bullet>Group By (&lt;b&gt;Lease Type&lt;/b&gt;)</bullet>
+					<bullet>Chart Style (&lt;b&gt;Bar&lt;/b&gt;)</bullet>
+				</bullets>
+			</bullet>
+			<bullet>Save this search as M4 Exercise 1.</bullet>
+		</bullets>
+	</steps>
+	
+	<file_list>
+		<bullets type="ordered" lstyle="default" columns="1">
+			<bullet>Job Aid: (??)Conduct a Leases Dates Search(%??)[##link=04_00_008-p1.pdf##]</bullet>
+			<bullet>Job Aid: (??)Graph Results(%??)[##link=04_00_009-p1.pdf##]</bullet>
+			<bullet>Job Aid: (??)View a Lease’s Detail Page(%??)[##link=04_00_010_508.pdf##]</bullet>
+		</bullets>
+	</file_list>
+
+	<graphic selectable="no">
+		<filename>04_00_011.png</filename>
+		<alt>Background graphic of a notepad.</alt>
+	</graphic>
+	
+	<feedback file="images/04_00_011.jpg" />
+	
+	<prompt>COMPLETE THE EXERCISE. THEN SELECT SUBMIT TO RECEIVE FEEDBACK.</prompt>
+</page>

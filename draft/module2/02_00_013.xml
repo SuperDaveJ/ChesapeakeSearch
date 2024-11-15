@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="13">
+
+	<nav prev_page="02_00_012.html" next_page="02_00_014.html" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+	
+	<pg_title>Working with Saved Searches</pg_title>
+	
+	<text_content>
+		<paragraph>Use saved searches to rerun a search without having to reenter all the parameters each time. For example you can save a search for production levels, plugged wells this week, or wells spud (date you begin to drill a well) in the last year.</paragraph>
+		<paragraph>The demonstration below describes the steps to save a search, run a saved search and delete or rename a search. Select Play to view the demonstration.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="68">
+		<filename>02_00_013a.png</filename>
+		<alt>Graphic screenshot of the Show Me interaction, with a Play button overlaid.</alt>
+	</graphic>
+	
+	<prompt>SELECT PLAY TO VIEW THE DEMONSTRATION. THEN SELECT THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>02_00_013_1</filename>
+			<cc_text>
+				<paragraph>Use saved searches to rerun a search without having to reenter all the parameters each time. Select Play to view the demonstration.</paragraph>
+				<paragraph>Once the results display in the Data Grid, click Add to Saved Searches. The Add Search dialog box opens.</paragraph>
+				<paragraph>Enter a descriptive name, in the search name field.</paragraph>
+				<paragraph>Click OK. The Haskell_1 search displays in My Saved Searches.</paragraph>
+				<paragraph>To run a saved search, expand the My Saved Searches in the Search Criteria Pane, if it’s collapsed.</paragraph>
+				<paragraph>Click the search’s name and the results display in the Data Grid.</paragraph>
+				<paragraph>To rename a saved search, place your cursor over the name of the saved search.</paragraph>
+				<paragraph>Search edit tools appear to the right of the search’s name. The buttons allow you to 1. Email the search, 2. Rename the search, and 3. Delete the search.</paragraph>
+				<paragraph>Click the Rename Search button. The Enter the Name for the View popup window displays.</paragraph>
+				<paragraph>Enter a new name, in the search name field.</paragraph>
+				<paragraph>Click OK. The Haskell search displays in My Saved Searches.</paragraph>
+				<paragraph>To delete a saved search, place your cursor over the name of the saved search. Search edit tools appear to the right of the search’s name.</paragraph>
+				<paragraph>Click the Delete Search button. The saved Search disappears from My Saved Searches.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative of the demonstration.</linkTxt>
+		<linkTo>02_00_013-p1.pdf</linkTo>
+	</dlink>
+	
+</page>

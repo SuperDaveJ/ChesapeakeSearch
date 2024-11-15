@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page type="question" q_type="scenario" enable_next="no" has_graphic="no" layout="h_txt_img" pg_num="15">
+
+	<nav prev_page="05_00_014.html" next_page="05_00_016.html" />
+
+	<mod_title id="5">Map Search</mod_title>
+	
+	<pg_title>Scenario-based Exercise</pg_title>
+	
+	<steps>
+		<paragraph>Follow the steps listed to complete this activity.</paragraph>
+		<bullets type="ordered">
+			<bullet>Refer to this module’s Demonstrations and Job Aids to assist you with this exercise.</bullet>
+			<bullet>In a new Browser window, launch CHK Search and select the appropriate tab to conduct a Map search.</bullet>
+			<bullet txt="Enter the information below in the fields (information displayed in bold within parenthesis should be what you input into each field on the system form) to conduct the Leases search:">
+				<bullets type="ordered" lstyle="lower_alpha">
+					<bullet>Asset (&lt;b&gt;915060010-000&lt;/b&gt;)</bullet>
+				</bullets>
+			</bullet>
+			<bullet>Select the lease on track number 1.</bullet>
+			<bullet txt="Turn these layers ON or OFF:">
+				<bullets type="ordered" lstyle="lower_alpha">
+					<bullet>METER (&lt;b&gt;OFF&lt;/b&gt;)</bullet>
+					<bullet>Roads (Bing) (&lt;b&gt;OFF&lt;/b&gt;)</bullet>
+					<bullet>WELL (INDUSTRY) (&lt;b&gt;ON&lt;/b&gt;)</bullet>
+				</bullets>
+			</bullet>
+		</bullets>
+	</steps>
+	
+	<file_list>
+		<bullets type="unordered" lstyle="default" columns="1">
+			<bullet>Job Aid: (??)Conduct a Map Landgrid Search(%??)[##link=05_00_012_508.pdf##]</bullet>
+			<bullet>Job Aid: (??)Manage Layers(%??)[##link=05_00_013_508.pdf##]</bullet>
+			<bullet>Job Aid: (??)Identify Features using a “Buffer Tool”(%??)[##link=05_00_014_508.pdf##]</bullet>
+		</bullets>
+	</file_list>
+
+	<graphic selectable="no">
+		<filename>05_00_015.png</filename>
+		<alt>Background graphic of a notepad.</alt>
+	</graphic>
+	
+	<feedback file="images/05_00_015-g2.jpg" />
+	
+	<prompt>COMPLETE THE EXERCISE. THEN SELECT SUBMIT TO RECEIVE FEEDBACK.</prompt>
+</page>

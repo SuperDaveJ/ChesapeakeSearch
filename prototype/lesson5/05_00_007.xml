@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="07">
+
+	<nav prev_page="05_00_006.html" next_page="05_00_008.html" />
+
+	<title>The Data Grid</title>
+	
+	<text_content>
+		<paragraph>The data grid expands to display search results. The data grid will create tabs for Search results and Identify results. To view the tabular information for features you selected, all you'll need to do is click on the appropriate tab. </paragraph>
+		<paragraph>Functionality includes sorting by field, hyperlinks, and the ability to export to Excel. To clear the selected features click the Clear button or the small arrow on the right side of the button, and then select Remove All Tabs.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>05_00_007.png</filename>
+		<alt>Graphic collage of the data grid showing screenshots of the tabs created for Search results and Identify results.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>05_00_004-a1</filename>
+			<cc_text>
+				<paragraph>The data grid expands to display search results. The data grid will create tabs for Search results and Identify results. To view the tabular information for features you selected, all you’ll need to do is click on the appropriate tab. Functionality includes sorting by field, hyperlinks, and the ability to export to Excel. To clear the selected features click the Clear button or the small arrow on the right side of the button, and then select Remove All Tabs.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

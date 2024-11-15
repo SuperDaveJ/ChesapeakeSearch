@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="13">
+
+	<nav prev_page="03_00_012.html" next_page="" />
+
+	<mod_title id="3">Contracts Search</mod_title>
+	
+	<pg_title>Module Summary</pg_title>
+	
+	<text_content>
+		<paragraph>In this module we discussed the functionality associated with conducting a Contracts search. You also learned how to use the available tools to work with the search results.</paragraph>
+		<paragraph>You should now be able to:</paragraph>	
+		<bullets type="unordered">
+			<bullet>Conduct a contracts search</bullet>
+			<bullet>Print a contract data sheet</bullet>
+			<bullet>Export search results to Excel, and</bullet>
+			<bullet>Customize search results by changing which columns to display and grouping by column</bullet>
+		</bullets>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>03_00_001.png</filename>
+		<alt>Screenshot of the Contracts tab.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>03_00_013_1</filename>
+			<cc_text>
+			  <paragraph>In this module we discussed the functionality associated with conducting a Contracts search. You also learned how to use the available tools to work with the search results.</paragraph>
+			  <paragraph>You should now be able to:</paragraph>	
+			  <bullets type="unordered">
+				  <bullet>Conduct a contracts search</bullet>
+				  <bullet>Print a contract data sheet</bullet>
+				  <bullet>Export search results to Excel, and</bullet>
+				  <bullet>Customize search results by changing which columns to display and grouping by column</bullet>
+			  </bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

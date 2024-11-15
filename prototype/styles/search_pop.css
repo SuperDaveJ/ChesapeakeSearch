@@ -1,0 +1,71 @@
+﻿* {
+	padding: 0;
+	margin:	0;
+}
+img {border:none;}
+
+body {
+	background:url(../sysimages/popup_medium.jpg) top left no-repeat;
+	background-color:#fff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:normal;
+	color:#111;
+}
+
+#popTitle {
+	position: absolute;
+	left: 82px;
+	top: 61px;
+	width: 542px;
+	height: 20px;
+}
+
+h1.popupH	{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color:#8cc63f;
+}
+
+
+#popText {
+	position: absolute;
+	left:82px;
+	top:102px;
+	width:542px;
+	height:300px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:normal;
+	line-height: 18px;
+	padding-right:8px;
+	color:#111;
+	overflow:auto;
+}
+
+#close {
+	position:absolute;
+	left:675px;
+	top:413px;
+	width:19px;
+	height:18px;
+	z-index:5;
+}
+
+p {
+	padding-top: 0;
+	padding-bottom: 10px;
+}
+
+p.secTitle {
+	padding-top: 0;
+	padding-bottom: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+li {
+	margin-left:30px;
+	padding-bottom: 8px;
+}

@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Popup Info</title>
+<link rel="stylesheet" type="text/css" href="../styles/search_pop.css" />
+<script type="text/javascript" src="../scripts/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="../scripts/query_function.js"></script>
+<style type="text/css">
+body {
+	background-color:#5996c8;
+	color:#fff;
+}
+</style>
+<script type="text/javascript">
+
+var pid = parseInt($.getUrlVar('pid'));
+
+$(document).ready(function(e) {
+	//for Shadowbox
+    $("#popTitle>h1.popupH").html( parent.popups[pid-1].popTitle );
+	$("#popText").html(parent.popups[pid-1].popTxt );
+	if (parent.hasPopImg == "yes") {
+		imgHTML = "<img src='images/" + parent.popups[pid-1].imgFile + "' alt='" + parent.popups[pid-1].imgAlt + "' />"
+		//$("#graf").html( imgHTML );
+	}
+
+});
+</script>
+</head>
+
+<body>
+<div id='popTitle'><h1 class='popupH'>&nbsp;</h1></div>
+
+<div id="popText">&nbsp;</div>
+
+<div id="close"><a href="javascript:parent.Shadowbox.close()"><img src="../sysimages/popup_close_0.jpg" onmouseover="this.src='../sysimages/popup_close_2.jpg'" onmouseout="this.src='../sysimages/popup_close_0.jpg'" width="19" height="18" alt="close" title="close" /></a></div>
+
+<body>
+</body>
+</html>

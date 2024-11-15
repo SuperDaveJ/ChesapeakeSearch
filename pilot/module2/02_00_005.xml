@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="yes" has_audio="yes" layout="h_txt_img" pg_num="05">
+
+	<nav prev_page="02_00_004.html" next_page="02_00_006.html" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+	
+	<pg_title>Benefits of using the Wells/Sites tab</pg_title>
+	
+	<text_content>
+		<paragraph>Using the Wells/Sites tab directly benefits you in these ways. It:</paragraph>
+		<bullets type="unordered">
+			<bullet>Gives you access to the most pertinent well and facility data</bullet>
+			<bullet>Makes readily available (??)Division of Interest (DOI)(%??)[##link=popup##] information</bullet>
+			<bullet>Provides drilling and completion data</bullet>
+			<bullet>Allows you to view cross references for wells and sites to Lease and Contract data</bullet>
+			<bullet>Provides you with accounting information</bullet>
+		</bullets>
+		<paragraph>Let’s review the Wells/Sites tab interface.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>02_00_005.png</filename>
+		<alt>Graphic of the Wells/Sites Search Criteria Pane.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE HIGHLIGHTED TEXT TO LEARN MORE. THEN CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>02_00_005_1</filename>
+			<cc_text>
+				<paragraph>Using the Wells/Sites tab directly benefits you in these ways: It</paragraph>
+				<bullets type="unordered">
+					<bullet>Gives you access to the most pertinent well and facility data</bullet>
+					<bullet>Makes readily available Division of Interest (&lt;b&gt;DOI&lt;/b&gt;) information</bullet>
+					<bullet>Provides drilling and completion data</bullet>
+					<bullet>Allows you to view cross references for wells and sites to Lease and Contract data</bullet>
+					<bullet>Provides you with accounting information</bullet>
+				</bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<popups>
+	  <popup id="1" has_image="no">
+		  <popTitle>Division of Interest (DOI)</popTitle>
+		  <popText>
+			  <paragraph>The tabulation of all interests in a particular property. Includes working, royalty, and overriding royalty interests and is usually expressed in decimals.</paragraph>
+		  </popText>
+		</popup>
+	</popups>
+
+</page>

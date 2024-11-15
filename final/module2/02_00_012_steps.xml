@@ -1,0 +1,14 @@
+<steps>
+    <step>Verify that you are in the Wells/Sites tab.</step>
+	<step>Begin your search at the Search Criteria Pane.</step>
+	<step>Click the collapse/expand arrow located on the right of the Details search title bar.</step>
+	<step>Click the Import button located to the right of the Number(s) field.</step>
+	<step>Click the Browse button.</step>
+	<step>Navigate to the location on your computer where the file you’d like to import is stored.</step>
+	<step>Click the file you’d like to import.</step>
+	<step>Click the Open button.</step>
+	<step>The Open dialog box closes and the Select an Excel file field in the Import File popup window populates with the name of the import file.</step>
+	<step>Click the Import button.</step>
+	<step>Click the Search button.</step>
+	
+</steps>

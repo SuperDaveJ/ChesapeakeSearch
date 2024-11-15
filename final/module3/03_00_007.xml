@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="07">
+
+	<nav prev_page="03_00_006.html" next_page="03_00_008.html" />
+
+	<mod_title id="3">Contracts Search</mod_title>
+	
+	<pg_title>Tasks to perform under the Contracts Search tab</pg_title>
+	
+	<text_content>
+		<paragraph>You can perform many contracts-related tasks in the Contracts tab.</paragraph>
+	</text_content>
+
+<!--	
+	<special_columns num="2">
+		<column location="left">
+			<paragraph>In addition to searching for contracts by running a saved search you can conduct these types of searches:</paragraph>
+			<graphic>
+			  <filename>03_00_007-g1.png</filename>
+			  <alt>Graphic labeled: Search Types: Details, Location, and Xrefs</alt>
+			</graphic>
+		</column> 
+		<column location="right">
+			<paragraph>Once search results populate the Data Grid, you have many options at your disposal to interact with these results. Some of these include:</paragraph>
+			<graphic>
+			  <filename>03_00_007-g2.png</filename>
+			  <alt>Graphic labeled: Search Results Interactions: Printing Contract Data Sheets, View contract images, Exporting contracts to Excel, and Accessing detailed contract information</alt>
+			</graphic>
+		</column> 
+	</special_columns>
+-->
+
+	<graphic selectable="no" top_position="38">
+		<filename>03_00_007.png</filename>
+		<alt>Left: Graphic labeled Search Types: Details, Location, and Xrefs.  Right: Graphic labeled Search Results Interactions: Printing Contract Data Sheets, View contract images, Exporting contracts to Excel, and Accessing detailed contract information</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>03_00_007_1</filename>
+			<cc_text>
+			  <paragraph>You can perform many contracts-related tasks in the Contracts tab. In addition to searching for contracts by running a saved search you can conduct these types of searches:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>Details</bullet>
+				  <bullet>Location, and</bullet> 
+				  <bullet>Xrefs</bullet>
+			  </bullets>
+			  <paragraph>Once search results populate the Data Grid, you have many options at your disposal to interact with these results. Some of these include:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>Print Contract Data Sheets</bullet>
+				  <bullet>View contract images</bullet>
+				  <bullet>Export contracts to Excel, and</bullet>
+				  <bullet>Access detailed contract information</bullet>
+			  </bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

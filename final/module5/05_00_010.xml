@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page type="question" q_type="drag" skip="yes" enable_next="yes" dlink="yes" has_graphic="no" layout="full" pg_num="10">
+
+	<nav prev_page="05_00_009.html" next_page="05_00_011.html" />
+
+	<mod_title id="5">Map Search</mod_title>
+	
+	<pg_title>Knowledge Check</pg_title>
+	
+	<stem>
+		<paragraph>Match each description with its corresponding area on the graphic by dragging and dropping the correct description to the appropriate area.</paragraph>
+	</stem>
+
+	<prompt>Match the items correctly, and then select SUBMIT to receive feedback.</prompt>
+	
+	<dlink link_type="508page" position="center">
+		<linkTxt>Select this link for a text alternative to the question.</linkTxt>
+		<linkTo></linkTo>
+	</dlink>
+
+</page>

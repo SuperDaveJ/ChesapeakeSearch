@@ -1,0 +1,68 @@
+/*
+ * Skin for jPlayer Plugin (jQuery JavaScript Library)
+ * This is for Chesapeake course, March 2013
+ */
+
+div.jp-audio {
+	position: absolute;
+	top: 94px;
+	left: 838px;
+	width: 80px;
+	height: 13px;
+	border: none;
+}
+div.jp-audio {
+	width:80px;
+}
+div.jp-interface {
+	position: relative;
+	width:100%;
+}
+
+div.jp-audio div.jp-interface {
+	height:13px;
+}
+
+div.jp-interface ul.jp-controls {
+	list-style-type:none;
+	margin:0;
+	padding: 0;
+	overflow:hidden;
+}
+
+div.jp-audio ul.jp-controls {
+	width: 80px;
+	padding:0;
+}
+
+div.jp-interface ul.jp-controls li {
+	display:inline;
+	float: left;
+}
+
+div.jp-interface ul.jp-controls a {
+	display:block;
+	overflow:hidden;
+	text-indent:-9999px;
+}
+a.jp-play,
+a.jp-pause {
+	width:49px;
+	height:9px;
+}
+
+a.jp-play {
+	background: url("../sysimages/play_0.png");
+	margin-top: 4px;
+	display: none;
+}
+a.jp-play:hover {
+	background: url("../sysimages/play_1.png");
+}
+a.jp-pause {
+	background: url("../sysimages/pause_0.png");
+	display: none;
+}
+a.jp-pause:hover {
+	background: url("../sysimages/pause_1.png");
+}

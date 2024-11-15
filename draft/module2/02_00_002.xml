@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="02">
+
+	<nav prev_page="02_00_001.html" next_page="02_00_003.html" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+	
+	<pg_title>What's new</pg_title>
+	
+	<text_content>
+		<paragraph>Whenever you launch CHK Search, the “What’s New - Wells” popup window displays by default. A similar “What’s New” popup window also displays for each tab of the other tabs, and lists the most recent new tab features. </paragraph>
+		<paragraph>You will not see this popup window for the Wells/Sites tab if in the past you had clicked the “Do Not Show Again” button located at the bottom right of the “What’s New - Wells” popup window. It will reappear when new features are added to CHK Search.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>02_00_002.png</filename>
+		<alt>Screenshot of the Wells/Sites tab What's New - Wells popup window.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>02_00_002_1</filename>
+			<cc_text>
+				<paragraph>From time to time, new functionality and data are added to CHK Search to enhance its current capabilities and to help you to be more efficient and productive as you search the company’s assets.</paragraph>
+				<paragraph>The “What’s New” popup window is displayed by default for each tab and lists the most recent new tab features.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

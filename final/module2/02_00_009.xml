@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="09">
+
+	<nav prev_page="02_00_008.html" next_page="02_00_010.html" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+	
+	<pg_title>Preview Pane</pg_title>
+	
+	<text_content>
+		<paragraph>The Preview Pane, where detailed information on a selected result in the Data Grid displays, is collapsed by default. To view the selected property’s detailed information, click on the small arrow located at the end of the Preview Pane Toolbar. By default, the displayed information matches the last used property information type selected in the Property Information dropdown list.</paragraph>
+		<paragraph>If there is data related to the property information type selected, it will display in the Preview Pane. If no data is found, this will be indicated by a “No Data Found.” message in the Preview Pane. </paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="7">
+		<filename>02_00_009.png</filename>
+		<alt>Graphic showing Property Number 110900 in the Data Grid selected and highlighted, and its related data displayed in the Preview Pane. Highlight the selected property information type.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>02_00_009_1</filename>
+			<cc_text>
+				<paragraph>The Preview Pane, where detailed information on a selected result in the Data Grid displays, is collapsed by default. To view the selected property’s detailed information, click on the small arrow located on the right side of the Preview Pane Toolbar.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

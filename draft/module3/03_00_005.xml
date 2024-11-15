@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="05">
+
+	<nav prev_page="03_00_004.html" next_page="03_00_006.html" />
+
+	<mod_title id="3">Contracts Search</mod_title>
+	
+	<pg_title>Benefits of using the Contracts tab</pg_title>
+	
+	<text_content>
+		<paragraph>Working in the Contracts tab has these specific benefits:</paragraph>
+		<bullets type="unordered">
+			<bullet>Fingertip access to joint operating agreements</bullet>
+			<bullet>Lease and wells cross references</bullet>
+			<bullet>Unit designation, and</bullet>
+			<bullet>Divestitures</bullet>
+		</bullets>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>03_00_005.png</filename>
+		<alt>Graphic collage of part of the Details, location and Xrefs Search types.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>03_00_005_1</filename>
+			<cc_text>
+			  <paragraph>Working in the Contracts tab has these specific benefits:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>Fingertip access to joint operating agreements</bullet>
+				  <bullet>Lease and wells cross references</bullet>
+				  <bullet>Unit designation, and</bullet>
+				  <bullet>Divestitures</bullet>
+			  </bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="yes" has_audio="yes" layout="v_txt_img" pg_num="12">
+
+	<nav prev_page="01_00_011.html" next_page="01_00_013.html" />
+
+	<mod_title id="1">Course Introduction and CHK Search Overview</mod_title>
+	
+	<pg_title>Overview of CHK Search </pg_title>
+	
+	<text_content>
+		<paragraph>In CHK Search, related assets are categorized into groups, and are organized under the Wells/Sites, Contracts, Leases and Map tabs. The Wells/Sites, Contracts, and Leases tabs share a similar layout, while the Map tab’s layout is slightly different in that the Search Results Toolbar and Search Criteria Types are located along the top of the interface. And the Data Grid displays search results in tabs. More on this later.</paragraph>
+		<paragraph>Click on each of the numbers on the screenshots below to identify each area.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>01_00_012.png</filename>
+		<alt>The Wells/Sites, Contracts, and Leases tabs share a similar layout:</alt>
+	</graphic>
+	
+	<prompt>CLICK EACH OF THE NUMBERS ON THE GRAPHICS TO LEARN MORE. THEN CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>01_00_012_1</filename>
+			<cc_text>
+				<paragraph>In CHK Search, related assets are categorized into groups, and are organized under the Wells/Sites, Contracts, Leases and Map tabs. The Wells/Sites, Contracts, and Leases tabs share a similar layout, while the Map tab’s layout is slightly different in that the Search Results Toolbar and Search Criteria Types are located along the top of the interface. And the Data Grid displays search results in tabs.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="508page">
+		<linkTxt>Select this link for a text alternative of the slideshow</linkTxt>
+		<linkTo></linkTo>
+	</dlink>
+	
+	<popups>
+	  <popup id="1" has_image="no">
+		  <popTitle>Search Criteria Pane</popTitle>
+		  <popText>
+			  <paragraph></paragraph>
+		  </popText>
+	  </popup>
+
+	  <popup id="2" has_image="no">
+		  <popTitle>Search Results</popTitle>
+		  <popText>
+			  <paragraph></paragraph>
+		  </popText>
+	  </popup>
+
+	  <popup id="3" has_image="no">
+		  <popTitle>Preview Pane</popTitle>
+		  <popText>
+			  <paragraph></paragraph>
+		  </popText>
+	  </popup>
+
+	  <popup id="4" has_image="no">
+		  <popTitle>Application Menu Bar</popTitle>
+		  <popText>
+			  <paragraph></paragraph>
+		  </popText>
+	  </popup>
+
+	  <popup id="5" has_image="no">
+		  <popTitle>Legend</popTitle>
+		  <popText>
+			  <paragraph></paragraph>
+		  </popText>
+	  </popup>
+
+	  <popup id="6" has_image="no">
+		  <popTitle>Map Interface</popTitle>
+		  <popText>
+			  <paragraph></paragraph>
+		  </popText>
+	  </popup>
+
+	  <popup id="7" has_image="no">
+		  <popTitle>Data Grid</popTitle>
+		  <popText>
+			  <paragraph></paragraph>
+		  </popText>
+	  </popup>
+
+	</popups>
+
+</page>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="08">
+
+	<nav prev_page="01_00_007.html" next_page="01_00_009.html" />
+
+	<mod_title id="1">Course Introduction and CHK Search Overview</mod_title>
+	
+	<pg_title>The Flow of each module</pg_title>
+	
+	<text_content>
+		<paragraph>In each module, we will discuss the following:</paragraph>
+		<bullets type="unordered">
+			<bullet>Purpose of the tab</bullet>
+			<bullet>What’s new</bullet>
+			<bullet>Benefits for the User </bullet>
+			<bullet>Overview of the tab</bullet>
+			<bullet>Tasks to perform under the tab</bullet>
+		</bullets>
+		<paragraph>You will also be given opportunities to practice using the capability of the system just demonstrated through scenario-based exercises that allow you to work directly with the system. Please do not try to follow along in CHK Search until it’s time to complete an exercise, as you may miss important information.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>01_00_008.png</filename>
+		<alt>Graphic depicting the course flow: Purpose of the tab; What’s new; Benefits for the User; Overview of the tab; Tasks to perform under the tab; Scenario-based exercise</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>01_00_008_1</filename>
+			<cc_text>
+				<paragraph>In each module, we will discuss the following:</paragraph>
+				<bullets type="unordered">
+					<bullet>Purpose of the tab</bullet>
+					<bullet>What’s new</bullet>
+					<bullet>Benefits for the User </bullet>
+					<bullet>Overview of the tab, and</bullet>
+					<bullet>Tasks to perform under the tab</bullet>
+				</bullets>
+				<paragraph>You will also be given opportunities to practice using the capability of the system just demonstrated through scenario-based exercises that allow you to work directly with the system. Please do not try to follow along in CHK Search until it’s time to complete an exercise, as you may miss important information.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

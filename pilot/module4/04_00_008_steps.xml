@@ -1,0 +1,17 @@
+<steps>
+    <step>Verify that you are in the Leases tab.</step>
+	<step>Begin your search at the Search Sidebar.</step>
+	<step>Click the small arrow located on the right on the Dates search type title bar.</step>
+	<step>Enter dates for Lease Date. Type 4/15/95 in the Lease Date “From” field.</step>
+	<step>Type 10/8/2011 in the Lease Date “To” field.</step>
+	<step>Enter dates for Lease Expiration. Type 6/8/2021 in the Lease Expiration “From” field.</step>
+	<step>Type 12/16/2078 in the Lease Expiration “To” field.</step>
+	<step>Click the Search button.</step>
+		
+</steps>
+
+
+
+
+
+

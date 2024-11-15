@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="13">
+
+	<nav prev_page="05_00_012.html" next_page="05_00_014.html" />
+
+	<mod_title id="5">Map Search</mod_title>
+	
+	<pg_title>Manage Layers</pg_title>
+	
+	<text_content>
+		<paragraph>The visible layers on a map can be controlled via the Legends dropdown list. Layers can be turned ON and OFF, and layer transparency can be adjusted as well.</paragraph>
+		<paragraph>The demonstration below shows a few examples of how to manage layers.  Select Play to view the demonstration.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="93">
+		<filename>05_00_013.png</filename>
+		<alt>Graphic screenshot of the Show Me interaction, with a Play button overlaid.</alt>
+	</graphic>
+	
+	<prompt>CLICK PLAY TO VIEW THE DEMONSTRATION. THEN CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>05_00_013-a1</filename>
+			<cc_text>
+				<paragraph>The visible layers on a map can be controlled via the Legends dropdown list. Layers can be turned ON and OFF, and layer transparency can be adjusted as well.</paragraph>
+				<paragraph>The demonstration below shows a few examples of how to manage layers.  Select Play to view the demonstration.</paragraph>
+				<paragraph>To access the layers on a map, click on the down arrow to the right of the Legend Dropdown List.</paragraph>
+				<paragraph>The Legend Dropdown List expands.</paragraph>
+				<paragraph>To adjust the transparency of a layer set, move the slider bar left or right.</paragraph>
+				<paragraph>If a layer has a small arrow to the left of the checkbox, this is a group of layers. Click the down arrow to the left of the layer to expand it.</paragraph>
+				<paragraph>To control what layers are On, Check a particular layer or layers. The map automatically refreshes according to your selections. In this example, the WELL (INDUSTRY) layer has been turned on, and green dots representing industry wells, appear on the map.</paragraph>
+				<paragraph>To control what layers are Off, Uncheck a particular layer or layers. The map automatically refreshes according to your selections. In this example, the WELL layer has been turned off, and the blue dots that represented wells no longer appear on the map.</paragraph>
+				<paragraph>To view only the visible layers on the map, click the checkbox to the left of Visible Only. The map automatically refreshes according to your selections.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative of the demonstration.</linkTxt>
+		<linkTo>05_00_013_508.pdf</linkTo>
+	</dlink>
+	
+</page>

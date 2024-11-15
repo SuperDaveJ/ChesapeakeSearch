@@ -1,0 +1,27 @@
+<steps>
+  <step>On the Search Results Toolbar, click Customize Results.</step> 
+  <step>The Choose Columns to View popup window displays.</step>
+  <step>Click a column name from the Available columns section.</step>
+  <step>Click the Right arrows.  The Short Description column name moves to the Selected columns section.</step>
+  <step>Click a column name from the Selected columns section and while holding down the CTRL (Control) key, click another column name from the Selected columns section.</step>
+  <step>Click the Left arrows. The Drop Code and Drop Date column names move to the Available columns section.</step>
+  <step>Click OK.</step>
+  <step>The Drop Code and Drop Date columns are no longer displayed to the right of the Contract Name Column. Also notice, that the Short Description column now appears as the last column.</step>
+  <step>You can group search results by any column heading. Left-click on the Down arrows located on the left of a column name.</step>
+  <step>Click Add Grouping.</step>
+  <step>The search results are grouped by the selected column.</step>
+  <step>Click the Down arrow located to the left of the group name to expand the list.</step> 
+  <step>Left-click on the Down arrows located on the left of the column name that was used to group the results.</step>
+  <step>Click Remove Grouping.</step>
+  <step>The search results are now ungrouped.</step>
+
+	
+	
+</steps>
+
+
+
+
+
+
+

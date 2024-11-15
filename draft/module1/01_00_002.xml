@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="02">
+
+	<nav prev_page="01_00_001.html" next_page="01_00_003.html" />
+
+	<mod_title id="1">Course Introduction and CHK Search Overview</mod_title>
+	
+	<pg_title>Topics and objectives for this module</pg_title>
+	
+	<text_content>
+		<paragraph>After completing this module, you will be able to:</paragraph>
+		<bullets type="unordered">
+			<bullet>Identify topics that will be covered in this course</bullet>
+			<bullet>Recall CHK Search’s interface design and key features, and</bullet>
+			<bullet>Relate “What’s In It For Me” (WIIFMs)</bullet>
+		</bullets>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>01_00_002.png</filename>
+		<alt>Screenshot of CHK Search main screen.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>01_00_002_1</filename>
+			<cc_text>
+				<paragraph>In this first module you will get an overview of the course navigation, interaction elements, and topics and objectives, the flow of each module, CHK Search’s purpose, interface design and key features, and the benefits you gain from using the system.</paragraph>
+				<paragraph>Let’s review the Learning Objectives for this lesson. After completing this module, you will be able to:</paragraph>
+				<bullets type="unordered">
+					<bullet>Identify topics that will be covered in this course</bullet>
+					<bullet>Recall CHK Search’s interface design and key features, and</bullet>
+					<bullet>Relate “What’s In It For Me” (WIIFMs)</bullet>
+				</bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="yes" has_audio="no" layout="h_txt_img" pg_num="07">
+
+	<nav prev_page="01_00_006.html" next_page="01_00_008.html" />
+
+	<mod_title id="1">Course Introduction and CHK Search Overview</mod_title>
+	
+	<pg_title>Course topics and objectives</pg_title>
+	
+	<text_content>
+		<paragraph>This course contains 6 lessons, including this lesson and the course summary. The following are the content lesson titles:</paragraph>
+		<bullets type="unordered">
+			<bullet>(??)Module 2: Wells/Sites Search(%??)[##link=popup##]</bullet>
+			<bullet>(??)Module 3: Contracts Search(%??)[##link=popup##]</bullet>
+			<bullet>(??)Module 4: Leases Search(%??)[##link=popup##]</bullet>
+			<bullet>(??)Module 5: Map Search(%??)[##link=popup##]</bullet>
+		</bullets>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>01_00_007.png</filename>
+		<alt>Graphic of the course menu.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE HIGHLIGHTED TEXT TO LEARN MORE. THEN CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>01_00_007_1</filename>
+			<cc_text>
+				<paragraph></paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<popups>
+	  <popup id="1" has_image="no">
+		  <popTitle>Module 2: Wells/Sites Search</popTitle>
+		  <popText>
+			  <paragraph>The objectives for this module include:</paragraph>
+			  <bullets type="unordered">
+			  	<bullet>Conduct a Wells/Sites search</bullet>
+			  	<bullet>Import a list</bullet>
+			  	<bullet>Save, rename, delete and rerun a saved search</bullet>
+			  	<bullet>Add a property to My Properties, and</bullet>
+			  	<bullet>Customize search results by sorting them by columns, and rearranging columns</bullet>
+			  </bullets>
+		  </popText>
+		</popup>
+
+	  <popup id="2" has_image="no">
+		  <popTitle>Module 3: Contracts Search</popTitle>
+		  <popText>
+			  <paragraph>The objectives for this module include:</paragraph>
+			  <bullets type="unordered">
+			  	<bullet>Conduct a contracts search</bullet>
+			  	<bullet>Print a contract data sheet</bullet>
+			  	<bullet>Export search results to Excel, and</bullet>
+			  	<bullet>Customize search results by changing which columns to display and grouping by column</bullet>
+			  </bullets>
+		  </popText>
+		</popup>
+
+	  <popup id="3" has_image="no">
+		  <popTitle>Module 4: Leases Search</popTitle>
+		  <popText>
+			  <paragraph>The objectives for this module include:</paragraph>
+			  <bullets type="unordered">
+			  	<bullet>Conduct a lease search</bullet>
+			  	<bullet>Graph search results, and</bullet>
+			  	<bullet>Access detailed lease information</bullet>
+			  </bullets>
+		  </popText>
+		</popup>
+
+	  <popup id="4" has_image="no">
+		  <popTitle>Module 5: Maps Search</popTitle>
+		  <popText>
+			  <paragraph>The objectives for this module include:</paragraph>
+			  <bullets type="unordered">
+			  	<bullet>Define multiple parameters in a Map/VAL search</bullet>
+			  	<bullet>Manage layers, and</bullet>
+			  	<bullet>Interact with a map</bullet>
+			  </bullets>
+		  </popText>
+		</popup>
+
+	</popups>
+
+</page>

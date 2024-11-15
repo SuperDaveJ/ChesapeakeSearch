@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="11">
+
+	<nav prev_page="05_00_010.html" next_page="05_00_012.html" />
+
+	<mod_title id="5">Map Search</mod_title>
+	
+	<pg_title>Tasks to perform under the Map Search tab</pg_title>
+	
+	<text_content>
+		<paragraph>You can perform many map-related tasks in the Map tab.</paragraph>
+	</text_content>
+	
+<!--
+	<special_columns num="2">
+		<column location="left">
+			<paragraph>In addition to searching for map by running a saved search you can conduct these types of searches:</paragraph>
+			<graphic>
+			  <filename>05_00_011-g1.png</filename>
+			  <alt>Graphic labeled: Search Types: Detail Assets, Landgrid, Location</alt>
+			</graphic>
+		</column> 
+		<column location="right">
+			<paragraph>Once search results populate the Data Grid, you can interact with results in these ways:</paragraph>
+			<graphic>
+			  <filename>05_00_011-g2.png</filename>
+			  <alt>Graphic labeled: Search Results Interactions: Manage Layers, Identify Features, Sort by Field, Sort by hyperlinks, Excel Search results to Export, Identify Features using a “Buffer Tool”</alt>
+			</graphic>
+		</column> 
+	</special_columns>
+-->
+	
+	<graphic selectable="no" top_position="40">
+		<filename>05_00_011.png</filename>
+		<alt>Left: Graphic labeled Search Types: Detail Assets, Landgrid, Location.  Right: Graphic labeled Search Results Interactions: Manage layers, Identify features, Sort by field, Sort by hyperlinks, Export search results to Excel, and Identify Features using a “Buffer Tool”</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>05_00_011-a1</filename>
+			<cc_text>
+				<paragraph>You can perform many map-related tasks in the Map tab. In addition to searching for map by running a saved search you can conduct these types of searches:</paragraph>
+				<bullets type="unordered">
+					<bullet>Assets</bullet>
+					<bullet>Landgrid, and</bullet>
+					<bullet>Location</bullet>
+				</bullets>
+				<paragraph>Once search results populate the Data Grid, you have many options at your disposal to interact with results in these ways:</paragraph>
+				<bullets type="unordered">
+					<bullet>Manage layers</bullet>
+					<bullet>Identify features</bullet>
+					<bullet>Sort by field</bullet>
+					<bullet>Sort by hyperlinks</bullet>
+					<bullet>Export search results to Excel, and</bullet>
+					<bullet>Identify features using a “Buffer Tool”</bullet>
+				</bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

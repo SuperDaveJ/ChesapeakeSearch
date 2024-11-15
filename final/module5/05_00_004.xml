@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="04">
+
+	<nav prev_page="05_00_003.html" next_page="05_00_005.html" />
+
+	<mod_title id="5">Map Search</mod_title>
+	
+	<pg_title>Topics and objectives for this module</pg_title>
+	
+	<text_content>
+		<paragraph>There are a number of tasks you can perform under the Map tab. As we progress through this module the following topics will describe them in more detail:</paragraph>
+		<bullets type="unordered">
+			<bullet>Overview of the Map tab</bullet>
+			<bullet>The Application Menu Bar</bullet>
+			<bullet>The Map Interface and the Legend</bullet>
+			<bullet>The Data grid</bullet>
+			<bullet>Conducting a Landgrid Search</bullet>
+		</bullets>
+		<paragraph>Let's review the Learning Objectives for this module. After completing this module, you will be able to:</paragraph>
+		<bullets type="unordered">
+			<bullet>Define multiple parameters in a Map/VAL search</bullet>
+			<bullet>Manage layers, and</bullet>
+			<bullet>Interact with a map</bullet>
+		</bullets>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>05_00_004.png</filename>
+		<alt>Screenshot of the Map tab.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>05_00_004-a1</filename>
+			<cc_text>
+				<paragraph>There are a number of tasks you can perform under the Map tab. After completing this module, you will be able to:</paragraph>
+				<bullets type="unordered">
+					<bullet>Define multiple parameters in a Map/VAL search</bullet>
+					<bullet>Manage layers, and</bullet>
+					<bullet>Interact with a map</bullet>
+				</bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

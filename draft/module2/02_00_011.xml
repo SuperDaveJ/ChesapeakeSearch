@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="11">
+
+	<nav prev_page="02_00_010.html" next_page="02_00_012.html" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+	
+	<pg_title>Tasks to perform under the Wells/Sites Search tab</pg_title>
+	
+	<text_content>
+		<paragraph>Under the Wells/Sites tab, you have several options to search for wells and facilities, and to work with the search results.</paragraph>
+	</text_content>
+
+	<graphic selectable="no" top_position="38">
+		<filename>02_00_011.png</filename>
+		<alt>Left: Graphic labeled Search Types: My Properties, Details, Location, Dates, Elevation/Depth, Team, A&amp;D, Comments, Job, Production, Event Milestones.  Right: Graphic labeled Search Results Interactions: Save a search, Add a property to My Properties, Graph Results, Request Files, Wellbore Schematic, Print Details…, Customize Search results, Excel Export, and Access detailed lease information</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>02_00_011_1</filename>
+			<cc_text>
+				<paragraph>Under the Wells/Sites tab, you have several options to search for wells and facilities, and to work with the search results.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

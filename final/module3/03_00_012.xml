@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page type="question" q_type="scenario" enable_next="no" has_graphic="no" layout="h_txt_img" pg_num="12">
+
+	<nav prev_page="03_00_011.html" next_page="03_00_013.html" />
+
+	<mod_title id="3">Contracts Search</mod_title>
+	
+	<pg_title>Scenario-based Exercise</pg_title>
+	
+	<steps>
+		<paragraph>Follow the steps listed to complete this activity.</paragraph>
+		<bullets type="ordered">
+			<bullet>Refer to this module’s Job Aids to assist you with this exercise.</bullet>
+			<bullet>In a new Browser window, launch CHK Search and select the appropriate tab to conduct a Contracts search.</bullet>
+			<bullet txt="Enter the information below in the fields (information displayed in bold within parenthesis should be what you input into each field on the system form):">
+				<bullets type="ordered" lstyle="lower_alpha">
+					<bullet>Contract Type (&lt;b&gt;DIVESTITURE, FEDERAL UNIT OPERATED&lt;/b&gt;)</bullet>
+					<bullet>Contract Date (&lt;b&gt;4/7/1992, 7/24/1998&lt;/b&gt;)</bullet>
+				</bullets>
+			</bullet>
+			<bullet>Change the Data Grid view, so that the Contract Type column comes after the Contract Name column.</bullet>
+			<bullet>Save this search as M3 Exercise 1.</bullet>
+		</bullets>
+	</steps>
+	
+	<file_list>
+		<bullets type="ordered" lstyle="default" columns="1">
+			<bullet>Job Aid: (??)Conduct an XRefs Search(%??)[##link=03_00_008-p1.pdf##]</bullet>
+			<bullet>Job Aid: (??)Print Contract Data Sheet(%??)[##link=03_00_009-p1.pdf##]</bullet>
+			<bullet>Job Aid: (??)Export Search Results to Excel(%??)[##link=03_00_010-p1.pdf##]</bullet> 
+			<bullet>Job Aid: (??)Customize Search Results Part 2(%??)[##link=03_00_011-p1.pdf##]</bullet>
+		</bullets>
+	</file_list>
+
+	<graphic selectable="no">
+		<filename>03_00_015.png</filename>
+		<alt>Background graphic of a notepad.</alt>
+	</graphic>
+	
+	<feedback file="images/03_00_012.jpg" />
+	
+	<prompt>COMPLETE THE EXERCISE. THEN SELECT SUBMIT TO RECEIVE FEEDBACK.</prompt>
+</page>

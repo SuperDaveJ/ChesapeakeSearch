@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="01">
+
+	<nav prev_page="" next_page="03_00_002.html" />
+
+	<mod_title id="3">Contracts Search</mod_title>
+	
+	<pg_title>Purpose of the Contracts search</pg_title>
+	
+	<text_content>
+		<paragraph>Welcome to Module 3! In this module we will discuss the functionality associated with conducting different types of Contracts searches. You will also learn how to use the available tools to find more details about contracts and to work with the search results.</paragraph>
+		<paragraph>This module should take approximately 40 minutes to complete.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>03_00_001.png</filename>
+		<alt>Screenshot of the Contracts tab. </alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>03_00_001_1</filename>
+			<cc_text>
+			  <paragraph>Welcome to Module 3! In this module we will discuss the functionality associated with conducting different types of Contracts searches. You will also learn how to use the available tools to find more details about contracts and to work with the search results.</paragraph>
+			  <paragraph>This module should take approximately 40 minutes to complete.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

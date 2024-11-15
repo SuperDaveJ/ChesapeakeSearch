@@ -1,0 +1,18 @@
+<steps>
+    <step>To sort by column, select any column name to sort search results by that column.</step>
+	<step>Click the Property Number column.</step>
+	<step>Click the Property Number column again.</step>
+	<step>To rearrange columns, select a column name and drag the column to a new location.</step>
+	<step>Click the Status column and drag it to the right of the Property Name column.</step>
+	<step>The Status column is now located to the right of the Property Name column.</step>
+		
+</steps>
+
+
+
+
+
+
+
+
+

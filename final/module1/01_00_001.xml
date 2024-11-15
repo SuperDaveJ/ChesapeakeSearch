@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="01">
+
+	<nav prev_page="" next_page="01_00_002.html" />
+
+	<mod_title id="1">Course Introduction and CHK Search Overview</mod_title>
+	
+	<pg_title>Course Introduction</pg_title>
+	
+	<text_content>
+		<paragraph>During this course you will explore and discover CHK Search features and functionality, and determine how to use the Wells, Sites, Contracts, Leases and Maps search capabilities.</paragraph>
+		<paragraph>This module should take approximately 15 minutes to complete.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>01_00_001.png</filename>
+		<alt>Collage of the 4 CHK Search tabs: Wells-Sites, Contracts, Leases and Maps.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>01_00_001_1</filename>
+			<cc_text>
+				<paragraph>Welcome to the CHK Search course! You’re taking this training to improve your CHK Search querying skills and to help create a more effective and productive team. You play an important role in our organization’s success and we want to provide you with a readily accessible, just-in-time training to help you discover the plethora of well, facility, lease and contract information available to you in CHK Search. During this course you will explore and discover CHK Search features and functionality, and determine how to use the Wells, Sites, Contracts, Leases and Maps search capabilities. This module should take approximately 15 minutes to complete.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="01">
+
+	<nav prev_page="" next_page="05_00_002.html" />
+
+	<title>Purpose of the Map search</title>
+	
+	<text_content>
+		<paragraph>Welcome to Module 5! As an employee, performing a Map search is a key job task used to help you to visualize company assets in specific geographic locations. In this module we will discuss the functionality associated with navigating to a specific geographic location using the available search options under the Map tab. </paragraph>
+		<paragraph>This module should take approximately 35 minutes to complete.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>05_00_001.png</filename>
+		<alt>Screenshot of the Map tab.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>05_00_001-a1</filename>
+			<cc_text>
+				<paragraph>As an employee, performing a Map search is a key job task used to help you to visualize company assets in specific geographic locations. In this module we will discuss the functionality associated with navigating to a specific geographic location using the available search options under the Map tab. This module should take approximately 35 minutes to complete.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="08">
+
+	<nav prev_page="02_00_007.html" next_page="02_00_009.html" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+	
+	<pg_title>Search Results</pg_title>
+	
+	<text_content>
+		<paragraph>All properties that meet the search criteria displays in the Data Grid. Use the commands found in the Search Results Toolbar located above the Data Grid, to interact with the results. Right-clicking on a property also displays commands to interact with the results.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="14">
+		<filename>02_00_008.png</filename>
+		<alt>Graphic of the Results Interface showing the Data Grid and the Search Results Toolbar labeled and highlighted.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>02_00_008_1</filename>
+			<cc_text>
+				<paragraph>All properties that meet the search criteria will display in the Data Grid. Use the commands found in the Search Results Toolbar located above the Data Grid, to interact with the results. Right-clicking on a property also displays commands to interact with the results.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

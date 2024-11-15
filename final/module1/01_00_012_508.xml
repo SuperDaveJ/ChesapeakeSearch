@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" dlink="no" has_graphic="no" has_popup="no" has_audio="no" layout="full_screen" pg_num="12">
+
+	<nav prev_page="01_00_011.html" next_page="01_00_013.html" />
+
+	<mod_title id="1">Course Introduction and CHK Search Overview</mod_title>
+	
+	<pg_title>Overview of CHK Search </pg_title>
+	
+	<text_content>
+		<table summary="">
+			<row header="yes">
+				<col>Display Graphic</col>
+				<col>Display Text</col>
+			</row>
+			<row>
+				<col>1.	Graphic of the Search Criteria Pane</col>
+				<col>Search Criteria Pane</col>
+			</row>
+			<row>
+				<col>2.	Graphic of the Search Results</col>
+				<col>Search Results</col>
+			</row>
+			<row>
+				<col>3.	Graphic of the Preview Pane</col>
+				<col>Preview Pane</col>
+			</row>
+			<row>
+				<col>4.	Graphic of the Application Menu Bar</col>
+				<col>Application Menu Bar</col>
+			</row>
+			<row>
+				<col>5.	Graphic of the Legend</col>
+				<col>Legend</col>
+			</row>
+			<row>
+				<col>6.	Graphic of the Map Interface</col>
+				<col>Map Interface</col>
+			</row>
+			<row>
+				<col>7.	Graphic of the Data Grid</col>
+				<col>Data Grid</col>
+			</row>
+		</table>
+	</text_content>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+</page>

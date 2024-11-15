@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="09">
+
+	<nav prev_page="01_00_008.html" next_page="01_00_010.html" />
+
+	<mod_title id="1">Course Introduction and CHK Search Overview</mod_title>
+	
+	<pg_title>What is CHK Search?</pg_title>
+	
+	<text_content>
+		<paragraph>CHK Search provides a one-stop shop for wells, sites, contracts and leases data that’s easily accessible, and easily exported to Excel.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>01_00_009.png</filename>
+		<alt>Collage of the 4 CHK Search tabs: Wells-Sites, Contracts, Leases and Maps.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>01_00_009_1</filename>
+			<cc_text>
+				<paragraph>CHK Search provides a one-stop shop for wells, sites, contracts and leases data that’s easily accessible, and easily exported to Excel.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

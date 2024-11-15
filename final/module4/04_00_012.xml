@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="12">
+
+	<nav prev_page="04_00_011.html" next_page="" />
+
+	<mod_title id="4">Leases Search</mod_title>
+	
+	<pg_title>Module Summary</pg_title>
+	
+	<text_content>
+		<paragraph>In this module we discussed the functionality associated with conducting a Lease search. You also learned how to use the available tools to work with the search results.</paragraph> 
+		<paragraph>You should now be able to:</paragraph>
+		<bullets type="unordered">
+			<bullet>Conduct a lease search</bullet>
+			<bullet>Graph search results, and</bullet>
+			<bullet>Access detailed lease information</bullet>
+		</bullets>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>04_00_012.png</filename>
+		<alt>Screenshot of the Leases tab.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>04_00_012_1</filename>
+			<cc_text>
+				<paragraph>In this module we discussed the functionality associated with conducting a Lease search. You also learned how to use the available tools to work with the search results.</paragraph> 
+				<paragraph>You should now be able to:</paragraph>
+				<bullets type="unordered">
+					<bullet>Conduct a lease search</bullet>
+					<bullet>Graph search results, and</bullet>
+					<bullet>Access detailed lease information</bullet>
+				</bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

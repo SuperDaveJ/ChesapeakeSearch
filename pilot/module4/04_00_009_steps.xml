@@ -1,0 +1,27 @@
+<steps>
+    <step>In the Data Grid, check any or all the checkboxes next to the Lease Number(s) to select the leases to graph. </step>
+	<step>Click the Result Actions dropdown list.</step>
+	<step>Select Graph Results.</step>
+	<step>The Result Graphing popup window opens and you’re presented with various options to control how the graph is displayed.</step>
+	<step>Click the small arrow to the right, in the Group By dropdown list.</step>
+	<step>Check the box to the left of Lease Type to select Lease Type.</step>
+	<step>Click the small arrow to the right, in the Group By dropdown list.</step>
+	<step>Check the box to the left of Lease Date to select Lease Date.</step>
+	<step>Click the small arrow to the right, in the Chart Style dropdown list.</step>
+	<step>Select Pie.</step>
+	<step>The selected search results display as a pie chart and the results are grouped by Lease Type and Lease Date.</step>
+	
+</steps>
+
+
+
+ 
+
+
+
+
+
+
+
+
+

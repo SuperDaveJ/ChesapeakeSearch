@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="12">
+
+	<nav prev_page="02_00_011.html" next_page="02_00_013.html" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+	
+	<pg_title>Conduct a Wells/Sites Search</pg_title>
+	
+	<text_content>
+		<paragraph>As you’ve just seen, there are many Search Criteria Types from which to pick. In this lesson we’ll describe the Details search. When defining a Details search you can select from many parameters including:</paragraph>
+		<bullets type="unordered" columns="3">
+			<bullet>Number(s)</bullet>
+			<bullet>Permit #</bullet>
+			<bullet>Status(es)</bullet>
+			<bullet>Wellbore Name(s)</bullet>
+			<bullet>Partner Type(s), or</bullet>
+			<bullet>Production Method(s)</bullet>
+		</bullets>
+		<paragraph>For some parameters, for example Number(s) (found under the Details Search Criteria Type), you can enter one or more comma separated values or import a list of numbers. The demonstration below describes the steps for conducting a Details Search using an Import List containing property numbers. Select Play to view the demonstration.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="30">
+		<filename>02_00_012a.png</filename>
+		<alt>Graphic screenshot of the Show Me interaction, with a Play button overlaid.</alt>
+	</graphic>
+	
+	<prompt>SELECT PLAY TO VIEW THE DEMONSTRATION. THEN SELECT THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>02_00_012_1</filename>
+			<cc_text>
+				<paragraph>There are several ways to search for a well or site. For example you can search by location, dates, team or production. Another search type is the Details search. When defining a Details search you can select from many parameters including:</paragraph>
+				<bullets type="unordered">
+					<bullet>Numbers</bullet>
+					<bullet>Permit #</bullet>
+					<bullet>Status(es)</bullet>
+					<bullet>Wellbore Name(s)</bullet>
+					<bullet>Partner Type(s), or</bullet>
+					<bullet>Production Method(s)</bullet>
+				</bullets>
+				<paragraph>Verify that you are in the Wells/Sites tab.</paragraph>
+				<paragraph>Begin your search at the Search Sidebar.</paragraph>
+				<paragraph>Click the collapse/expand arrow located on the right of the Details search title bar.</paragraph>
+				<paragraph>Click the Import button located to the right of the Number(s) field. The Import File popup window opens.</paragraph>
+				<paragraph>Click the Browse button. The Open dialog box opens.</paragraph>
+				<paragraph>Navigate to the location on your computer where the file you’d like to import is stored.</paragraph>
+				<paragraph>Click the file you’d like to import.</paragraph>
+				<paragraph>Click the Open button. The Open dialog box closes and the Select an Excel file field in the Import File popup window populates with the name of the import file.</paragraph>
+				<paragraph>Click the Import button. The Number(s) field populates with the imported well numbers separated by commas.</paragraph>
+				<paragraph>Once the search criteria have been filled in click the Search button. The data grid will expand with the results. You can also hit the Enter key on your keyboard, instead of the Search button.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative of the demonstration.</linkTxt>
+		<linkTo>02_00_012_508.pdf</linkTo>
+	</dlink>
+	
+</page>

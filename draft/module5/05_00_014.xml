@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="14">
+
+	<nav prev_page="05_00_013.html" next_page="05_00_015.html" />
+
+	<mod_title id="5">Map Search</mod_title>
+	
+	<pg_title>Identify Features using a “Buffer Tool”</pg_title>
+	
+	<text_content>
+		<paragraph>The buffer tool allows you to select an area around a point, rectangle, circle, polygon or line on the lease displayed on the map, and to select information in the buffered area.</paragraph>
+		<paragraph>The demonstration below describes the steps for using a “Buffer Tool”.  Select Play to view the demonstration.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="93">
+		<filename>05_00_014.png</filename>
+		<alt>Graphic screenshot of the Show Me interaction, with a Play button overlaid.</alt>
+	</graphic>
+	
+	<prompt>CLICK PLAY TO VIEW THE DEMONSTRATION. THEN CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>05_00_014-a1</filename>
+			<cc_text>
+				<paragraph>The buffer tool allows you to select an area around a point, rectangle, circle, polygon or line on the lease displayed on the map and to select information in the buffered area.</paragraph>
+				<paragraph>The demonstration below describes the steps for using a “Buffer Tool”.  Select Play to view the demonstration.</paragraph>
+				<paragraph>Select a row in the Data Grid. The map automatically refreshes according your selection. The grey portion is the lease and the green highlighted area is the tract within the lease that is selected in the results.</paragraph>
+				<paragraph>Click the Analysis Tools button. The Analysis Tools expands.</paragraph>
+				<paragraph>Click the Identify Buffer button. The Identify Buffer expands.</paragraph>
+				<paragraph>Click the down arrow to the left of COMPRESSION STATION in the Layer Dropdown List. The Layer Dropdown List expands.</paragraph>
+				<paragraph>Click the checkbox to the left of COMPRESSION STATION. COMPRESSION STATION is deselected.</paragraph>
+				<paragraph>Click the checkbox to the left of LEASE. LEASE is selected.</paragraph>
+				<paragraph>Type a number in the Distance field.</paragraph>
+				<paragraph>Click on a portion of the lease displayed on the map to define the center point.</paragraph>
+				<paragraph>All the leases that are within the 5 mile radius display on the map and Data Grid.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative of the demonstration.</linkTxt>
+		<linkTo>05_00_014-p1.pdf</linkTo>
+	</dlink>
+	
+</page>

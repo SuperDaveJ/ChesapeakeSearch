@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="05">
+
+	<nav prev_page="05_00_004.html" next_page="05_00_006.html" />
+
+	<mod_title id="5">Map Search</mod_title>
+	
+	<pg_title>Benefits of using the Map tab</pg_title>
+	
+	<text_content>
+		<paragraph>The Map tab gives you access to a quick visualization of leases, properties, landgrids and wells.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>05_00_005.png</filename>
+		<alt>Photo/Graphic of Graphic of map search results.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>05_00_005-a1</filename>
+			<cc_text>
+				<paragraph>The Map tab gives you access to a quick visualization of leases, properties, landgrids and wells.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

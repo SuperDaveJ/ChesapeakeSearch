@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="07">
+
+	<nav prev_page="04_00_006.html" next_page="04_00_008.html" />
+
+	<mod_title id="4">Leases Search</mod_title>
+	
+	<pg_title>Tasks to perform under the Leases Search tab</pg_title>
+	
+	<text_content>
+		<paragraph>You can perform many lease-related tasks in the Leases tab.</paragraph>
+	</text_content>
+
+<!--	
+	<special_columns num="2">
+		<column location="left">
+			<paragraph>In addition to searching for leases by running a saved search you can conduct these types of searches:</paragraph>
+			<graphic>
+			  <filename>04_00_007-g1.png</filename>
+			  <alt>Graphic labeled: Search Types: Details, Location, Dates, Xrefs, Chain of Title, Miscellaneous, and Team</alt>
+			</graphic>
+		</column> 
+		<column location="right">
+			<paragraph>Once search results populate the Data Grid, you can interact with results in these ways:</paragraph>
+			<graphic>
+			  <filename>04_00_007-g2.png</filename>
+			  <alt>Graphic labeled: Search Results Interactions: Graph Results, Request Files, Mapping Ref reports, Print Lease Data Sheets, Map Ref Report, Customize Search results, Excel Export, and Access detailed lease information</alt>
+			</graphic>
+		</column> 
+	</special_columns>
+-->
+
+	<graphic selectable="no" top_position="40">
+		<filename>04_00_007.png</filename>
+		<alt>Left: Graphic labeled Search Types: Details, Location, Dates, Xrefs, Chain of Title, Miscellaneous, and Team.  Right: Graphic labeled Search Results Interactions: Graph Results, Request Files, Print Lease Data Sheets, Map Ref Report, Customize Search results, Excel Export, and Access detailed lease information.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>04_00_007_1</filename>
+			<cc_text>
+			  <paragraph>You can perform many contracts-related tasks in the Contracts tab. In addition to searching for contracts by running a saved search you can conduct these types of searches:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>Details</bullet>
+				  <bullet>Location</bullet>
+				  <bullet>Dates</bullet>
+				  <bullet>Xrefs</bullet> 
+				  <bullet>Chain of Title</bullet>
+				  <bullet>Miscellaneous, and</bullet>
+				  <bullet>Team</bullet>
+			  </bullets>
+			  <paragraph>Once search results populate the Data Grid, you have many options at your disposal to interact with results in these ways:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>Graph Results</bullet>
+				  <bullet>Request Files</bullet>
+				  <bullet>Print Lease Data Sheets</bullet>
+				  <bullet>Map Ref Report</bullet>
+				  <bullet>Customize Search results</bullet>
+				  <bullet>Excel Export, and</bullet>
+				  <bullet>Access detailed lease information</bullet>
+			  </bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

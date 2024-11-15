@@ -1,0 +1,29 @@
+<steps>
+    <step>Select a row in the Data Grid. </step>
+	<step>Click the Analysis Tools button.</step>
+	<step>Click the Identify Buffer button.</step>
+	<step>Click the down arrow to the left of COMPRESSION STATION in the Layer Dropdown List.</step>
+	<step>Click the checkbox to the left of COMPRESSION STATION.</step>
+	<step>Click the checkbox to the left of LEASE. </step>
+	<step>Type a number in the Distance field.</step>
+	<step>Click on a portion of the lease displayed on the map to define the center point.</step>
+	<step>All the leases that are within the 5 mile radius display on the map and Data Grid.</step>
+	
+	
+</steps>
+
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+

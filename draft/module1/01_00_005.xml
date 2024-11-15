@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="05">
+
+	<nav prev_page="01_00_004.html" next_page="01_00_006.html" />
+
+	<mod_title id="1">Course Introduction and CHK Search Overview</mod_title>
+	
+	<pg_title>Interacting with the course</pg_title>
+	
+	<text_content>
+		<paragraph>Some other course features you will encounter include the Play/Pause button and the CC button.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" >
+		<filename>01_00_005.png</filename>
+		<alt>It is important for you to read the prompt at the bottom of every screen so you understand if you are required to interact with that page.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>01_00_005_1</filename>
+			<cc_text>
+				<paragraph>Selecting the Play/Pause button while the audio is playing pauses the audio. Play/Pause can be selected again to continue the audio at the point where it was paused. Go ahead – try it. If the page has no audio, the Audio Play/Pause button is dimmed (that is, it is inactive).</paragraph>
+				<paragraph>Selecting the CC button opens a separate window with a transcript of the audio. Go ahead – give it a try. If the page has no audio, the Closed Caption button is also dimmed.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

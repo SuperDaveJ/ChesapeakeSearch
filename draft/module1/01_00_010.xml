@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="10">
+
+	<nav prev_page="01_00_009.html" next_page="01_00_011.html" />
+
+	<mod_title id="1">Course Introduction and CHK Search Overview</mod_title>
+	
+	<pg_title>Key Features</pg_title>
+	
+	<text_content>
+		<paragraph>CHK Search contains many features. For example:</paragraph>
+		<bullets type="unordered">
+			<bullet>Search criteria is extensive</bullet>
+			<bullet>Functionality is similar throughout the Wells/Sites, Contracts, and Leases tabs</bullet>
+			<bullet>Saving and customizing searches is easy, and</bullet>
+			<bullet>Search results can be easily exported to Excel for further analysis</bullet>
+		</bullets>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>01_00_010.png</filename>
+		<alt>Photo collage of the Wells/Sites tab Team Search Criteria type, the Contracts tab Details Search Criteria type, and the Leases tab Location Search Criteria type.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>01_00_010_1</filename>
+			<cc_text>
+			  <paragraph>CHK Search contains many features. For example:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>Search criteria is extensive</bullet>
+				  <bullet>Functionality is similar throughout the Wells/Sites, Contracts, and Leases tabs</bullet>
+				  <bullet>Saving and customizing searches is easy, and</bullet>
+				  <bullet>Search results can be easily exported to Excel for further analysis</bullet>
+			  </bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

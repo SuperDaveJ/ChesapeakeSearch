@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="11">
+
+	<nav prev_page="01_00_010.html" next_page="01_00_012.html" />
+
+	<mod_title id="1">Course Introduction and CHK Search Overview</mod_title>
+	
+	<pg_title>What’s In It For Me?</pg_title>
+	
+	<text_content>
+		<paragraph>CHK Search is a consolidation of many systems. That means you can get all the data you need from many systems, in just one system. Furthermore:</paragraph>
+		<bullets type="unordered">
+			<bullet>You do not need to login to several different platforms</bullet>
+			<bullet>You can access data without having someone else get it for you</bullet> 
+			<bullet>You can get answers to your questions right away</bullet> 
+			<bullet>The data in CHK Search is dynamic, and</bullet>
+			<bullet>The company saves money and bypasses licensing issues</bullet>
+		</bullets>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>01_00_011.png</filename>
+		<alt>Graphic labeled: “What’s In It For Me” (WIIFMs)</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>01_00_011_1</filename>
+			<cc_text>
+			  <paragraph>CHK Search is a consolidation of many systems. That means you can get all the data you need from many systems, in just one system. Furthermore:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>You do not need to login to several different platforms</bullet>
+				  <bullet>You can access data without having someone else get it for you</bullet> 
+				  <bullet>You can get answers to your questions right away</bullet> 
+				  <bullet>The data in CHK Search is dynamic, and</bullet>
+				  <bullet>The company saves money and bypasses licensing issues</bullet>
+			  </bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page type="question" skip="no" enable_next="yes" dlink="no" q_type="grid" has_graphic="no" has_audio="no" layout="full" pg_num="10">
+
+	<nav prev_page="02_00_009.html" next_page="02_00_011.html" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+	
+	<pg_title>Knowledge Review</pg_title>
+	
+	<stem>
+		<paragraph>Match each description in the left column with the area on the graphic that it describes by selecting the appropriate cell on the right.</paragraph>
+	</stem>
+	
+	<prompt>CORRECTLY MATCH THE ITEMS.  THEN SELECT SUBMIT TO RECEIVE FEEDBACK.</prompt>
+	
+	<first_cell>Description:</first_cell>
+	
+	<column_titles>
+		<column>My Saved Searches</column>
+		<column>Search Results Toolbar</column>
+		<column>Data Grid</column>
+		<column>Preview Pane</column>
+	</column_titles>
+	
+	<row_text>
+		<row match_column="4">View detailed property information.</row>
+		<row match_column="1">Rerun saved searches.</row>
+		<row match_column="3">View search results.</row>
+		<row match_column="2">Interact with search results.</row>
+	</row_text>
+	
+	<feedbacks>
+		<feedback correct="no">Incorrect.  One or more of your answers is incorrect.  Please try again.</feedback>
+		<feedback correct="yes">Correct!  You have correctly matched each description with to the area it describes on the graphic. Click the Next Arrow to continue.</feedback>
+		<feedback correct="no2">Incorrect.  You have not correctly matched each description with to the area it describes on the graphic. Click the Next Arrow to continue.</feedback>
+	</feedbacks>
+	
+</page>

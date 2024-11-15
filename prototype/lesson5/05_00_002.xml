@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="02">
+
+	<nav prev_page="05_00_001.html" next_page="05_00_003.html" />
+
+	<title>What's new?</title>
+	
+	<text_content>
+		<paragraph>From time to time, new functionality and data are added to CHK Search to enhance its current capabilities and to help you to be more efficient and productive as you search the company's assets.</paragraph>
+		<paragraph>One of the things you will notice when you log in to CHK Search is the "What's New?" popup window. This window is displayed for each tab and lists the recent updates implemented in that tab.</paragraph>
+		<paragraph>You will not see this popup window if sometime in the past you had unchecked the "Show on Startup" box in the "What's New?" popup window.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>05_00_002.png</filename>
+		<alt>Screenshot of the Map tab's "What's New?" popup window.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>05_00_002-a1</filename>
+			<cc_text>
+				<paragraph>From time to time, new functionality and data are added to CHK Search to enhance its current capabilities and to help you to be more efficient and productive as you work in the database.</paragraph>
+				<paragraph>This window is displayed for each tab and lists the recent updates implemented in that tab.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

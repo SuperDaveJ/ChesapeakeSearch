@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="04">
+
+	<nav prev_page="02_00_003.html" next_page="02_00_005.html" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+	
+	<pg_title>Topics and objectives for this module</pg_title>
+	
+	<text_content>
+		<paragraph>Let’s review the Learning Objectives for this lesson. After completing this module, you will be able to:</paragraph>
+		<bullets type="unordered">
+			<bullet>Conduct a Wells/Sites search</bullet>
+			<bullet>Import a list</bullet>
+			<bullet>Save, rename, delete and rerun a saved search, and</bullet>
+			<bullet>Customize search results by sorting them by columns, and rearranging columns</bullet>
+		</bullets>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>02_00_004.png</filename>
+		<alt>Screenshot of the Wells/Sites tab.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>02_00_004_1</filename>
+			<cc_text>
+				<paragraph>In addition to providing you with some insights about the benefits of using the Wells/Sites tab, you will get a brief overview of the tab. Then, we will demonstrate how to define a Wells/Sites Details search and the different options available to you, to work with the search results.</paragraph>
+				<paragraph>After completing this module, you will be able to:</paragraph>
+				<bullets type="unordered">
+					<bullet>Conduct a Wells/Sites search</bullet>
+					<bullet>Import a list</bullet>
+					<bullet>Save, rename, delete and rerun a saved search, and</bullet>
+					<bullet>Customize search results by sorting them by columns, and rearranging columns</bullet>
+				</bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

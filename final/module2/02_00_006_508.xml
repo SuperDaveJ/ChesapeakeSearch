@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" dlink="no" has_graphic="no" has_popup="no" has_audio="no" layout="full_screen" pg_num="06">
+
+	<nav prev_page="02_00_005.html" next_page="02_00_007.html" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+	
+	<pg_title>Overview of the Wells/Sites Tab</pg_title>
+	
+	<text_content>
+		<table summary="">
+			<row header="yes">
+				<col>Display Graphic</col>
+				<col>Display Text</col>
+			</row>
+			<row>
+				<col>1.	Graphic of the Search Criteria Pane</col>
+				<col>Search Criteria Pane</col>
+			</row>
+			<row>
+				<col>2.	Graphic of the Search Results</col>
+				<col>Search Results</col>
+			</row>
+			<row>
+				<col>3.	Graphic of the Preview Pane</col>
+				<col>Preview Pane</col>
+			</row>
+		</table>
+	</text_content>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+</page>

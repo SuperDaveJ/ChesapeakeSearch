@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="08">
+
+	<nav prev_page="03_00_007.html" next_page="03_00_009.html" />
+
+	<mod_title id="3">Contracts Search</mod_title>
+	
+	<pg_title>Conduct an Xrefs Contracts Search Using Lease Numbers</pg_title>
+	
+	<text_content>
+		<paragraph>Sometimes you may want to see the relationships between a contract and other company assets. You can do so by conducting an Xrefs search.</paragraph>
+		<paragraph>The demonstration below describes the steps for finding contracts using the Xrefs search type. Select Play to view the demonstration.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="83">
+		<filename>03_00_008a.png</filename>
+		<alt>Graphic screenshot of the Show Me interaction, with a Play button overlaid.</alt>
+	</graphic>
+	
+	<prompt>SELECT PLAY TO VIEW THE DEMONSTRATION. THEN CLICK THE NEXT AROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>03_00_008_1</filename>
+			<cc_text>
+			  <paragraph>It may be necessary for you to see the relationships between a contract and other company assets. You can do so by conducting an Xrefs search.</paragraph>
+			  <paragraph>The demonstration below describes the steps for finding contracts using the Xrefs search type. Select Play to view the demonstration.</paragraph>
+			  <paragraph>Verify that you are in the Contracts tab.</paragraph>			  
+			  <paragraph>Begin your search at the Search Sidebar.</paragraph>			  
+			  <paragraph>Click the small arrow to the right on the Xrefs search type title bar. The Xrefs search type expands.</paragraph>			  
+			  <paragraph>Type a few lease numbers in the Lease Number(s) field.</paragraph>			  
+			  <paragraph>Once the search criteria have been filled in click the Search button. The data grid expands with the results. You can also hit the Enter key on your keyboard, instead of the Search button.</paragraph>			  
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative to the demonstration.</linkTxt>
+		<linkTo>03_00_008-p1.pdf</linkTo>
+	</dlink>
+	
+</page>

@@ -1,0 +1,14 @@
+<steps>
+	<step>Begin your VAL search at the Search Toolbar.</step>
+	<step>Click the Search dropdown list.</step>
+	<step>Select the Landgrid Search.</step>
+	<step>Click the small arrow to the right, in the State dropdown list.</step>
+	<step>Select Oklahoma.</step>
+	<step>Click the small arrow to the right, in the County dropdown list.</step>
+	<step>Select Roger Mills.</step>
+	<step>Type a number in the Township (Twp) field.</step>
+	<step>Type a number in the Range (Rng) field.</step>
+	<step>Click the Search button.</step>
+	<step>Click a record within the data grid.</step>
+	
+</steps>

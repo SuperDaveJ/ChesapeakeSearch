@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="08">
+
+	<nav prev_page="04_00_007.html" next_page="04_00_009.html" />
+
+	<mod_title id="4">Leases Search</mod_title>
+	
+	<pg_title>Conduct a Lease Dates Search</pg_title>
+	
+	<text_content>
+		<paragraph>You can search for leases within a particular time frame by using either of two options: &lt;b&gt;Search Type “And”&lt;/b&gt;, or &lt;b&gt;Search Type “Or”&lt;/b&gt;.</paragraph>
+		<paragraph>The demonstration below describes the steps for finding leases that fall within a particular timeframe. Select Play to view the demonstration.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="98">
+		<filename>04_00_008.png</filename>
+		<alt>Graphic screenshot of the Show Me interaction, with a Play button overlaid.</alt>
+	</graphic>
+	
+	<prompt>SELECT PLAY TO VIEW THE DEMONSTRATION. THEN CLICK THE NEXT AROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>04_00_008_1</filename>
+			<cc_text>
+			  <paragraph>You can search for leases within a particular timeframe by using either of two options: Search Type “And”, or Search Type “Or”.</paragraph>
+			  <paragraph>The demonstration below describes the steps for finding leases that fall within a particular timeframe. Select Play to view the demonstration.</paragraph>
+			  <paragraph>Verify that you are in the Leases tab.</paragraph>			  
+			  <paragraph>Begin your search at the Search Sidebar.</paragraph>			  
+			  <paragraph>Click the small arrow located on the right on the Dates search type title bar. The Dates search type expands. And the Search Type “And” is selected by default.</paragraph>			  
+			  <paragraph>For this search we will enter dates for Lease Date and Lease Expiration. Let’s begin by entering dates for Lease Date. Type 4/15/95 in the Lease Date “From” field. 4/15/95 displays in the “From” field.  Alternately, you could use the Date Picker located on the right of the “From” field, to select your desired date.</paragraph>			  
+			  <paragraph>Type 10/8/2011 in the Lease Date “To” field. 10/8/2011 displays in the “To” field.</paragraph>			  
+			  <paragraph>Now we will enter dates for Lease Expiration. Type 6/8/2021 in the Lease Expiration “From” field. 6/8/2021 displays in the “From” field.</paragraph>			  
+			  <paragraph>Type 12/16/2078 in the Lease Expiration “To” field. 12/16/2078 displays in the “To” field.</paragraph>			  
+			  <paragraph>Once the search criteria have been filled in click the Search button. The data grid expands with the results. You can also hit the Enter key on your keyboard, instead of the Search button. </paragraph>			  
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative to the demonstration.</linkTxt>
+		<linkTo>04_00_008-p1.pdf</linkTo>
+	</dlink>
+	
+</page>

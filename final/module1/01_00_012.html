@@ -1,0 +1,222 @@
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/search_audio.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="../styles/chk_search.css" />
+<link rel="stylesheet" type="text/css" href="../shadowbox/shadowbox.css" />
+<link rel="stylesheet" type="text/css" href="../skin/jplayer_chk_search.css" />
+
+<script type="text/javascript" src="../shadowbox/shadowbox.js"></script>
+<script type="text/javascript" src="../scripts/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="../scripts/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="../scripts/search_content.js"></script>
+<script type="text/javascript" src="../scripts/search_common.js"></script>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Chesapeake - Search</title>
+<link rel="stylesheet" type="text/css" href="../tooltipster-master/css/tooltipster.css" />
+<script type="text/javascript" src="../tooltipster-master/js/jquery.tooltipster.min.js"></script>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+#b1 {
+	position: absolute;
+	left: 40px;
+	top: 249px;
+	width: 76px;
+	height: 76px;
+	z-index: 5;
+	border:0;
+	cursor:pointer;
+}
+
+#b2 {
+	position: absolute;
+	left: 240px;
+	top: 225px;
+	width: 76px;
+	height: 76px;
+	z-index: 5;
+	border:0;
+	cursor:pointer;
+}
+
+#b3 {
+	position: absolute;
+	left: 240px;
+	top: 309px;
+	width: 76px;
+	height: 76px;
+	z-index: 5;
+	border:0;
+	cursor:pointer;
+}
+
+#b4 {
+	position: absolute;
+	left: 480px;
+	top: 149px;
+	width: 76px;
+	height: 76px;
+	z-index: 5;
+	border:0;
+	cursor:pointer;
+}
+
+#b5 {
+	position: absolute;
+	left: 780px;
+	top: 159px;
+	width: 76px;
+	height: 76px;
+	z-index: 5;
+	border:0;
+	cursor:pointer;
+}
+
+#b6 {
+	position: absolute;
+	left: 510px;
+	top: 239px;
+	width: 76px;
+	height: 76px;
+	z-index: 5;
+	border:0;
+	cursor:pointer;
+}
+
+#b7 {
+	position: absolute;
+	left: 530px;
+	top: 309px;
+	width: 76px;
+	height: 76px;
+	z-index: 5;
+	border:0;
+	cursor:pointer;
+}
+</style>
+
+<script type="text/javascript">
+function addButtons() {
+	//$("#content").append("<div id='b1'><img src='images/05_00_004a_0.png' onmouseover='this.src=\"images/05_00_004a_1.png\"' onmouseout='this.src=\"images/05_00_004a_0.png\"' /></div>");
+	//The line above works if needed
+	$("#content").append("<div id='b1'><img src='../sysimages/05_00_004a_0.png' /></div>");	
+	$("#content").append("<div id='b2'><img src='../sysimages/05_00_004b_0.png' /></div>");	
+	$("#content").append("<div id='b3'><img src='../sysimages/05_00_004c_0.png' /></div>");	
+	$("#content").append("<div id='b4'><img src='../sysimages/05_00_004d_0.png' /></div>");	
+	$("#content").append("<div id='b5'><img src='images/01_00_012e_0.png' /></div>");	
+	$("#content").append("<div id='b6'><img src='images/01_00_012f_0.png' /></div>");	
+	$("#content").append("<div id='b7'><img src='images/01_00_012g_0.png' /></div>");	
+}
+
+function writeTips() {
+	$("#b1").addClass("tooltip").attr("title", popups[0].popTitle);
+	$("#b2").addClass("tooltip").attr("title", popups[1].popTitle);
+	$("#b3").addClass("tooltip").attr("title", popups[2].popTitle);
+	$("#b4").addClass("tooltip").attr("title", popups[3].popTitle);
+	$("#b5").addClass("tooltip").attr("title", popups[4].popTitle);
+	$("#b6").addClass("tooltip").attr("title", popups[5].popTitle);
+	$("#b7").addClass("tooltip").attr("title", popups[6].popTitle);
+
+	$('.tooltip').tooltipster({
+		animation: 'grow',
+		trigger: 'hover'
+	});
+}
+
+$("#content").ready(function(e) {
+	addButtons();
+	setTimeout(writeTips, 1000);
+});
+</script>
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<div id="container">
+<h1 class="moduleTitle"><span class="modNum">&nbsp;</span><span class="modText">&nbsp;</span></h1>
+
+<div id="content"> <!-- the whole content area -->
+<!-- InstanceBeginEditable name="ContentArea" -->
+
+<h2 class="pageTitle"></h2>
+
+<!--
+<div id="b1"><img src="images/05_00_004a_0.png" class="tooltip" title="Application Menu Bar" width="76" height="76" alt="1"></div>
+
+<div id="b2"><img src="images/05_00_004b_0.png" class="tooltip" title="Legend" width="76" height="76" alt="2"></div>
+
+<div id="b3"><img src="images/05_00_004c_0.png" class="tooltip" title="Map Interface" width="76" height="76" alt="3"></div>
+
+<div id="b4"><img src="images/05_00_004d_0.png" class="tooltip" title="Data Grid" width="76" height="76" alt="4"></div>
+-->
+
+<!-- InstanceEndEditable -->
+</div> <!-- End of content -->
+
+<!-- InstanceBeginEditable name="Prompt" -->
+<div id="prompt"></div>
+<!-- InstanceEndEditable -->
+
+<!-- Audio controls and CC -->
+<div id="jquery_jplayer" class="jp-jplayer"></div>
+
+<div id="cc"><a href="javascript:showCC();" title="audio transcript"><img src="../sysimages/cc_0.png" onMouseOver="this.src='../sysimages/cc_1.png'" onMouseOut="this.src='../sysimages/cc_0.png'" width="27" height="9" alt="audio transcript"></a></div>
+
+<div id="jp_container" class="jp-audio">
+    <div class="jp-gui jp-interface">
+        <ul class="jp-controls">
+            <li><a href="javascript:;" class="jp-play" title="play">play</a></li>
+            <li><a href="javascript:;" class="jp-pause" title="pause">pause</a></li>
+        </ul>
+    </div>
+</div>
+<!-- End of Audio controls and CC -->
+
+<!-- Navigation Buttons -->
+<div id="next"><a href="javascript:goNext()"><img src="../sysimages/next_0.png" onmouseover="this.src='../sysimages/next_2.png'" onmouseout="this.src='../sysimages/next_0.png'" onmousedown="this.src='../sysimages/next_1.png'" width="31" height="53" alt="next" /></a></div>
+  
+  <div id="back"><a href="javascript:goBack()"><img src="../sysimages/back_0.png" onmouseover="this.src='../sysimages/back_2.png'" onmouseout="this.src='../sysimages/back_0.png'" onmousedown="this.src='../sysimages/back_1.png'" width="31" height="53" alt="back" /></a></div>
+<!-- End of Navigation Buttons -->
+
+<!-- bottom bar: Prompt, Back, Refresh, Next, Page number -->
+<div id="bottomBar">
+<span class="offScreen">Page</span><span class="pgNumber"></span>
+<span class="vBar">I</span> <span class="courseTitle">CHK SEARCH WEB-BASED TRAINING</span>
+</div>
+<!-- End of bottom bar -->
+
+<!-- top bar: Menu, Glossary, Exit, Lesson title. Place it at the bottom for screen reader to read last -->
+<div id="topBar">
+  <div id="menu"><a href="javascript:parent.toMenu();" title="menu"><img src="../sysimages/menu_0.png" onmouseover="this.src='../sysimages/menu_2.png'" onmouseout="this.src='../sysimages/menu_0.png'" width="143" height="60" alt="menu" /></a></div>
+     
+  <div id="resources"><a href="javascript:openResources()" title="resources"><img src="../sysimages/resource_0.png" onmouseover="this.src='../sysimages/resource_2.png'" onmouseout="this.src='../sysimages/resource_0.png'" width="143" height="60" alt="resources" /></a></div>
+     
+  <div id="glossary"><a href="javascript:openGlossary()" title="glossary"><img src="../sysimages/glossary_0.png" onmouseover="this.src='../sysimages/glossary_2.png'" onmouseout="this.src='../sysimages/glossary_0.png'" width="143" height="60" alt="glossary" /></a></div>
+     
+  <div id="help"><a href="javascript:openHelp()" title="help"><img src="../sysimages/help_0.png" onmouseover="this.src='../sysimages/help_2.png'" onmouseout="this.src='../sysimages/help_0.png'" width="135" height="60" alt="help" /></a></div>
+     
+</div>
+<!-- End of top bar -->
+
+  <div id="exit"><a href="javascript:exitConfirm()" title="exit"><img src="../sysimages/exit_0.jpg" onmouseover="this.src='../sysimages/exit_2.jpg'" onmouseout="this.src='../sysimages/exit_0.jpg'" width="53" height="23" alt="exit" /></a></div>
+  
+<!-- Comment Tool -->
+<div id="comment_link">
+    <div id="add_comment">
+    <a href="javascript:addComment()">Add Comment</a></div>
+    
+    <div id="view_comment">
+    <a href="javascript:viewComment()">View Comments</a></div>
+</div>
+<!-- End of Comment Tool -->
+
+</div><!-- End of container div -->
+
+<!-- Additonal code area if needed -->
+<!-- InstanceBeginEditable name="AdditionalCode" -->
+
+<!-- InstanceEndEditable -->
+
+</body>
+<!-- InstanceEnd --></html>

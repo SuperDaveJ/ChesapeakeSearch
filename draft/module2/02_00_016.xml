@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="16">
+
+	<nav prev_page="02_00_015.html" next_page="" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+	
+	<pg_title>Module Summary</pg_title>
+	
+	<text_content>
+		<paragraph>In this module you learned about the functionality associated with the Wells/Sites tab.</paragraph>
+		<paragraph>You should now be able to:</paragraph>
+		<bullets type="unordered">
+			<bullet>Conduct a Wells/Sites search</bullet>
+			<bullet>Import a list</bullet>
+			<bullet>Save, rename, delete and rerun a saved search, and</bullet>
+			<bullet>Customize search results by sorting them by columns, and rearranging columns</bullet>
+		</bullets>
+		<paragraph>In the next module you will learn about the functionality associated with conducting different types of Contracts searches.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>02_00_016.png</filename>
+		<alt>Screenshot of the Wells/Sites tab.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>02_00_016_1</filename>
+			<cc_text>
+			  <paragraph>In this module you learned about the functionality associated with the Wells/Sites tab.</paragraph>
+			  <paragraph>You should now be able to:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>Conduct a Wells/Sites search</bullet>
+				  <bullet>Import a list</bullet>
+				  <bullet>Save, rename, delete and rerun a saved search, and</bullet>
+				  <bullet>Customize search results by sorting them by columns, and rearranging columns</bullet>
+			  </bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="10">
+
+	<nav prev_page="03_00_009.html" next_page="03_00_011.html" />
+
+	<mod_title id="3">Contracts Search</mod_title>
+	
+	<pg_title>Export Search Results to Excel</pg_title>
+	
+	<text_content>
+		<paragraph>You can export any or the entire search results to Excel for further analysis.</paragraph>
+		<paragraph>The demonstration below describes the steps for exporting one or more results to Excel. Select Play to view the demonstration.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="101">
+		<filename>03_00_010a.png</filename>
+		<alt>Graphic screenshot of the Show Me interaction, with a Play button overlaid.</alt>
+	</graphic>
+	
+	<prompt>SELECT PLAY TO VIEW THE DEMONSTRATION. THEN CLICK THE NEXT AROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>03_00_010_1</filename>
+			<cc_text>
+			  <paragraph>You can export any or the entire search results to Excel for further analysis.</paragraph>
+			  <paragraph>The demonstration below describes the steps for exporting one or more results to Excel. Select Play to view the demonstration.</paragraph>
+			  <paragraph>In the Data Grid, check any or all the checkboxes next to the Contract Number(s) to select the contract(s) to export.</paragraph>
+			  <paragraph>On the Analysis Toolbar, click the Excel Export Dropdown List. The Excel Export Dropdown List expands.</paragraph>			  
+			  <paragraph>At this point, you can choose between either, Use Current Columns to export current columns displayed, or Choose Columns, to customize the exported columns. In this example we will click, Use Current Columns.</paragraph>			  
+			  <paragraph>A File Download dialog box displays with information about the generated Excel export file.</paragraph>			  
+			  <paragraph>Click Open (or Save, to save a copy to a location on your computer).</paragraph>			  
+			  <paragraph>The file opens in Excel. From here you can conduct further data analysis on the search results.</paragraph>			  
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative to the demonstration.</linkTxt>
+		<linkTo>03_00_010-p1.pdf</linkTo>
+	</dlink>
+	
+</page>

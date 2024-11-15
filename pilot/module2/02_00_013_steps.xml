@@ -1,0 +1,14 @@
+<steps>
+    <step>Once the results display in the Data Grid, click Add to Saved Searches. The Add Search dialog box opens.</step>
+	<step>Enter a descriptive name, in the search name field.</step>
+	<step>Click OK.</step>
+	<step>To run a saved search, expand the My Saved Searches in the Search Criteria Pane, if it's collapsed.</step>
+	<step>Click the search’s name and the results display in the Data Grid.</step>
+	<step>To rename a saved search, place your cursor over the name of the saved search.</step>
+	<step>Click the Rename Search button.</step>
+	<step>Enter a new name, in the search name field.</step>
+	<step>Click OK. </step>
+	<step>To delete a saved search place your cursor over the name of the saved search.</step>
+	<step>Click the Delete Search button.</step>
+	
+</steps>

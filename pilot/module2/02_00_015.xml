@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page type="question" q_type="scenario" enable_next="no" has_graphic="no" layout="h_txt_img" pg_num="15">
+
+	<nav prev_page="02_00_014.html" next_page="02_00_016.html" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+	
+	<pg_title>Scenario-based Exercise</pg_title>
+	
+	<steps>
+		<paragraph>Follow the steps listed to complete this activity.</paragraph>
+		<bullets type="ordered">
+			<bullet>Download the Scenario Exercise file to a location on your computer.</bullet>
+			<bullet>Refer to this module’s Job Aids to assist you with this exercise.</bullet>
+			<bullet>In a new Browser window, launch CHK Search and select the appropriate tab to conduct a Well/Sites search.</bullet>
+			<bullet>Conduct a Wells/Sites search using the import file.</bullet>
+			<bullet>Save this search as M2 Exercise 1.</bullet>
+			<bullet>Move the GIS Unit ID column to the left of the Status column.</bullet>
+			<bullet>Sort the results by the GIS Unit ID in descending order.</bullet>
+		</bullets>
+	</steps>
+	
+	<file_list>
+		<paragraph>(??)Scenario Exercise 1 Import File(%??)[##link=M2_Scenario_Exercise_1.xlsx##]</paragraph>
+		<paragraph>Job Aid: (??)Conduct a Wells/Sites Search(%??)[##link=02_00_012_508.pdf##]</paragraph>
+		<paragraph>Job Aid: (??)Working with Saved Searches(%??)[##link=02_00_013_508.pdf##]</paragraph>
+		<paragraph>Job Aid: (??)Customize Search Results Part 1(%??)[##link=02_00_014_508.pdf##]</paragraph>
+	</file_list>
+
+	<graphic selectable="no">
+		<filename>02_00_015.png</filename>
+		<alt>Background graphic of a notepad.</alt>
+	</graphic>
+	
+	<feedback file="images/02_00_015b.jpg" />
+	
+	<prompt>COMPLETE THE EXERCISE. THEN SELECT SUBMIT TO RECEIVE FEEDBACK.</prompt>
+</page>

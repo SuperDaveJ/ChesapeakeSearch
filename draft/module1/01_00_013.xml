@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="13">
+
+	<nav prev_page="01_00_012.html" next_page="" />
+
+	<mod_title id="1">Course Introduction and CHK Search Overview</mod_title>
+	
+	<pg_title>Module Summary</pg_title>
+	
+	<text_content>
+		<paragraph>In this first module you got an overview of the course navigation, interaction elements, and topics and objectives, the flow of each module, CHK Search’s purpose, interface design and key features, and the benefits you gain from using the system. </paragraph>
+		<paragraph>You should now be able to:</paragraph>
+		<bullets type="unordered">
+			<bullet>Identify topics that will be covered in this course</bullet>
+			<bullet>Recall CHK Search’s interface design and key features, and</bullet>
+			<bullet>Relate “What’s In It For Me” (WIIFMs)</bullet>
+		</bullets>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>01_00_013.png</filename>
+		<alt>Collage of the 4 CHK Search tabs: Wells-Sites, Contracts, Leases and Maps.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>01_00_013_1</filename>
+			<cc_text>
+			  <paragraph>In this first module you got an overview of the course navigation, interaction elements, and topics and objectives, the flow of each module, CHK Search’s purpose, interface design and key features, and the benefits you gain from using the system.</paragraph> 
+			  <paragraph>You should now be able to:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>Identify topics that will be covered in this course</bullet>
+				  <bullet>Recall CHK Search’s interface design and key features, and</bullet>
+				  <bullet>Relate “What’s In It For Me” (WIIFMs)</bullet>
+			  </bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

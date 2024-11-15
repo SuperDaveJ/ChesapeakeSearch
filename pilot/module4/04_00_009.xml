@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="09">
+
+	<nav prev_page="04_00_008.html" next_page="04_00_010.html" />
+
+	<mod_title id="4">Leases Search</mod_title>
+	
+	<pg_title>Graph Search Results</pg_title>
+	
+	<text_content>
+		<paragraph>Search results can be represented graphically to make the information easier to understand, and to more clearly and effectively communicate important patterns or relationships.</paragraph>
+		<paragraph>The demonstration below describes the steps for graphing your search results. Select Play to view the demonstration.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="80">
+		<filename>04_00_009.png</filename>
+		<alt>Graphic screenshot of the Show Me interaction, with a Play button overlaid.</alt>
+	</graphic>
+	
+	<prompt>SELECT PLAY TO VIEW THE DEMONSTRATION. THEN CLICK THE NEXT AROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>04_00_009_1</filename>
+			<cc_text>
+			  <paragraph>Search results can be represented graphically to make the information easier to understand, and to more clearly and effectively communicate important patterns or relationships.</paragraph>
+			  <paragraph>The demonstration below describes the steps for graphing search results. Select Play to view the demonstration.</paragraph>
+			  <paragraph>In the Data Grid, check any or all the checkboxes next to the Lease Number(s) to select the leases to graph.</paragraph>
+			  <paragraph>Click the Result Actions dropdown list. The Result Actions dropdown list expands.</paragraph>
+			  <paragraph>Select Graph Results.</paragraph>			  
+			  <paragraph>The Result Graphing popup window opens and you’re presented with various options to control how the graph is displayed. The Result Format, Chart Type, Chart Style, 3D View, Show Labels and Date Style are prefilled with default selections.</paragraph>			  
+			  <paragraph>Let’s graph the selected leases by grouping them by Lease Type. No changes will be made to the other graphing options; they will remain at their default selections. Click the small arrow to the right, in the Group By dropdown list. The Group By dropdown list expands.</paragraph>			  
+			  <paragraph>Check the box to the left of Lease Type to select Lease Type. A chart displays the selected leases by the Fee Lease Type.</paragraph>			  
+			  <paragraph>If you want to visualize the selected leases by both Lease Type and Lease Date, click the small arrow to the right, in the Group By dropdown list. The Group By dropdown list expands showing the Lease Type checkbox selected.</paragraph>			  
+			  <paragraph>Check the box to the left of Lease Date to select Lease Date. A chart displays the selected leases by the Fee Lease Type and Lease Date.</paragraph>			  
+			  <paragraph>You can change the chart style from the default Column style, to either Bar, Line or Pie. Let’s see what the results look like as a pie chart. Click the small arrow to the right, in the Chart Style dropdown list. The Chart Style dropdown list expands.</paragraph>			  
+			  <paragraph>Select Pie. </paragraph>			  
+			  <paragraph>The selected search results display as a pie chart and the results are grouped by Lease Type and Lease Date.</paragraph>			  
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative to the demonstration.</linkTxt>
+		<linkTo>04_00_009-p1.pdf</linkTo>
+	</dlink>
+	
+</page>

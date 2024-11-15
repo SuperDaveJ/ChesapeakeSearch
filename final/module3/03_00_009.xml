@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="09">
+
+	<nav prev_page="03_00_008.html" next_page="03_00_010.html" />
+
+	<mod_title id="3">Contracts Search</mod_title>
+	
+	<pg_title>Print Contract Data Sheet</pg_title>
+	
+	<text_content>
+		<paragraph>There may be times when you need to refer to a contract and you’re far from an Internet connected device, or you may just want a copy of the contract details on hand for quick reference.  You can get this readily available copy by printing a contract data sheet.</paragraph>
+		<paragraph>The demonstration below describes the steps for printing a contract data sheet. Select Play to view the demonstration.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="83">
+		<filename>03_00_009a.png</filename>
+		<alt>Graphic screenshot of the Show Me interaction, with a Play button overlaid.</alt>
+	</graphic>
+	
+	<prompt>SELECT PLAY TO VIEW THE DEMONSTRATION. THEN CLICK THE NEXT AROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>03_00_009_1</filename>
+			<cc_text>
+			  <paragraph>There may be times when you need to refer to a contract and you’re far from an Internet connected device, or you may just want a copy of the contract details on hand for quick reference.  You can get this readily available copy by printing a contract data sheet.</paragraph>
+			  
+			  <paragraph>The demonstration below describes the steps for printing a contract data sheet. Select Play to view the demonstration.</paragraph>
+			  
+			  <paragraph>In the Data Grid, check any or all the checkboxes next to the Contract Number(s) to select the contract data sheet(s) to print.</paragraph>			  
+			  <paragraph>Click the Result Actions dropdown list. The Result Actions dropdown list expands.</paragraph>	
+			  		  
+			  <paragraph>Select Print Contract Data Sheets.</paragraph>
+			  			  
+			  <paragraph>A new bowser window opens and a File Download dialog box displays with information about the generated PDF contract data sheet.</paragraph>			  
+			  <paragraph>Select Open. Note that at this point you also have the option to save the data sheet to a location on your computer, instead of printing it.</paragraph>			  
+			  <paragraph>The document opens in your default PDF viewer.</paragraph>			  
+			  <paragraph>In your PDF viewer’s Menu Bar, select File.  From there you can either save the data sheet to a location on your computer, or print out a copy.</paragraph>			  
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative to the demonstration.</linkTxt>
+		<linkTo>03_00_009-p1.pdf</linkTo>
+	</dlink>
+	
+</page>

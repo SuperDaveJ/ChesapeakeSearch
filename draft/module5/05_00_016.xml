@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="16">
+
+	<nav prev_page="05_00_015.html" next_page="" />
+
+	<mod_title id="5">Map Search</mod_title>
+	
+	<pg_title>Module Summary</pg_title>
+	
+	<text_content>
+		<paragraph>In this module you learned about the functionality associated with navigating to a specific geographic location using the available search options under the Map tab. You also learned about managing layers, interacting with the results and exporting search results to Excel.</paragraph>
+		<paragraph>You should now be able to:</paragraph>
+		<bullets type="unordered">
+			<bullet>Define multiple parameters in a Map/VAL search</bullet>
+			<bullet>Manage layers, and</bullet>
+			<bullet>Interact with a map</bullet>
+		</bullets>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>05_00_016.png</filename>
+		<alt>Screenshot of the Map tab.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>05_00_016-a1</filename>
+			<cc_text>
+		<paragraph>In this module you learned about the functionality associated with navigating to a specific geographic location, using the available search options under the Map tab. You also learned about managing layers, interacting with the results and exporting search results to Excel.</paragraph>
+		<paragraph>You should now be able to:</paragraph>
+		<bullets type="unordered">
+			<bullet>Define multiple parameters in a Map/VAL search</bullet>
+			<bullet>Manage layers, and</bullet>
+			<bullet>Interact with a map</bullet>
+		</bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

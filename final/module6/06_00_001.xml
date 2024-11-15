@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" dlink="no" has_graphic="yes" has_popup="no" has_audio="no" layout="h_txt_img" pg_num="01">
+
+	<nav prev_page="" next_page="06_00_002.html" />
+
+	<mod_title id="5">Course Summary</mod_title>
+	
+	<pg_title>Purpose of the Wells/Sites search</pg_title>
+	
+	<text_content>
+		<paragraph>During this course you explored and discovered CHK Search features and functionality, and determined how to use the Wells, Sites, Contracts, Leases and Maps search capabilities.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>06_00_001.png</filename>
+		<alt>Collage of the 4 CHK Search tabs: Wells-Sites, Contracts, Leases and Maps.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="no">
+	  	<audio>
+			<filename></filename>
+			<cc_text>
+				<paragraph></paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

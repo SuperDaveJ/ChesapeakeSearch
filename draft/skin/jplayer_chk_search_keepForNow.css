@@ -1,0 +1,90 @@
+/* Skin for jPlayer Plugin (jQuery JavaScript Library) */
+/*
+#jp_container {
+	position: absolute;
+	left: 838px;
+	top: 94px;
+	width: 82px;
+	height: 9px;
+}
+*/
+#jp_container.jp-audio {
+	position: absolute;
+	top: 94px;
+	left: 838px;
+	height: 13px;
+	width: 80px;
+	padding: 0;
+}
+
+ul.jp-controls {
+	list-style-type:none;
+	overflow:hidden;
+	width: 100%;
+	margin:0;
+	padding:0;
+}
+
+ul.jp-controls li {
+	display:inline;
+	float: left;
+}
+
+ul.jp-controls a {
+	display:block;
+	overflow:hidden;
+	text-indent:-9999px;
+}
+
+a.jp-play {
+	width:49px;
+	height:9px;
+	background: url("../sysimages/play_0.png");
+	display: none;
+	margin-top: 4px;
+	padding: 0;
+}
+a.jp-play:hover {
+	background: url("../sysimages/play_2.png");
+}
+
+a.jp-pause {
+	width:49px;
+	height:9px;
+	background: url("../sysimages/pause_0.png");
+	margin: 0;
+	padding: 0;
+	display: none;
+}
+a.jp-pause:hover {
+	background: url("../sysimages/pause_2.png");
+}
+
+/* @group NO SOLUTION error feedback */
+.jp-no-solution {
+	position:absolute;
+	width:390px;
+	margin-left:-202px;
+	left:50%;
+	top: 10px;
+
+	padding:5px;
+	font-size:.8em;
+	background-color:#eee;
+	border:2px solid #009be3;
+	color:#000;
+	display:none;
+}
+
+.jp-no-solution a {
+	color:#000;
+}
+
+.jp-no-solution span {
+	font-size:1em;
+	display:block;
+	text-align:center;
+	font-weight:bold;
+}
+
+/* @end */

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="06">
+
+	<nav prev_page="05_00_005.html" next_page="05_00_007.html" />
+
+	<title>The Map Interface and the Legend</title>
+	
+	<text_content>
+		<paragraph>The map interface visually displays information based on the search parameters you defined and any analysis you applied.</paragraph>
+		<paragraph>To access the legend located in the upper right corner of the map, and below the Help button, click the Legend button or the small arrow on the right side of the button. The Legend allows you to expand and collapse the layer tree using the two buttons at the top of the list. The Legend will only reflect what is visible on the map. As you zoom in and out on the map, the Legend adjusts accordingly.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>05_00_006.png</filename>
+		<alt>Screenshot of the Map interface with the Legend expanded.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>05_00_006-a1</filename>
+			<cc_text>
+				<paragraph>The map interface visually displays information based on the search parameters you defined and any analysis you applied.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

@@ -1,0 +1,13 @@
+<html>
+<head><title>Loading...</title></head>
+<body>
+<script type="text/javascript">
+  if (window.addEventListener) //DOM method for binding an event
+  	window.addEventListener("load", parent.startCourse, false);
+  else if (window.attachEvent) //IE exclusive method for binding an event
+  	window.attachEvent("onload", parent.startCourse);
+  else if (document.getElementById) //support older modern browsers
+  	window.onload = parent.startCourse;
+</script>
+</body>
+</html>

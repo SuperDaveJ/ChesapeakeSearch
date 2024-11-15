@@ -1,0 +1,17 @@
+<steps>
+    <step>In the Data Grid, check any or all the checkboxes next to the Contract Number(s) to select the contract(s) to export.</step>
+	<step>Click the Excel Export Dropdown List.</step>
+	<step>Click Use Current Columns.</step>
+	<step>A File Download dialog box displays with information about the generated Excel export file.</step>
+	<step>Click Open.</step>
+	<step>The file opens in Excel. From there you can conduct further data analysis on the search results.</step>
+	
+	
+</steps>
+
+
+
+
+
+
+

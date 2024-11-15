@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="yes" has_audio="yes" layout="v_txt_img" pg_num="07">
+
+	<nav prev_page="02_00_006.html" next_page="02_00_008.html" />
+
+	<mod_title id="2">Wells/Sites Search</mod_title>
+
+	<pg_title>Search Criteria Pane</pg_title>
+	
+	<text_content>
+		<paragraph>The Search Criteria Pane contains two main groupings of commands to help you conduct a Wells/Sites search and to interact with the results. These are the Search Toolbar, and the Search Criteria Types. Click on each of the "plus" (+) buttons below to learn about each.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="90">
+		<filename>02_00_007.png</filename>
+		<alt>Screenshot of the Search Criteria Pane.</alt>
+	</graphic>
+	
+	<prompt>CLICK ON EACH OF THE PLUS BUTTONS TO LEARN MORE. THEN CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>02_00_007_1</filename>
+			<cc_text>
+				<paragraph>The Search Criteria Pane contains two main groupings of commands to help you conduct a Wells/Sites search and to interact with the results. These are the Search Toolbar, and the Search Criteria Types. Click on each of the "plus" buttons below to learn about each.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<popups>
+	  <popup id="1" has_image="yes">
+		  <popTitle>Search Toolbar</popTitle>
+		  <popText>
+			  <paragraph>Using Search is the best method to quickly navigate to your geographic area. The Search toolbar contains these commands:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>Search</bullet>
+				  <bullet>Reset, and</bullet>
+				  <bullet>Add to Saved Search</bullet>
+			  </bullets>
+		  </popText>
+		  
+		  <popImg>
+			<filename>02_00_007_g2.jpg</filename>
+			<alt>Selectable graphic of the Search Toolbar.</alt>
+		  </popImg>
+	  </popup>
+
+	  <popup id="2" has_image="yes">
+		  <popTitle>Search Criteria Types</popTitle>
+		  <popText>
+			  <paragraph>The Search Criteria Types is located below the Search Toolbar. The Search Criteria Types contains these commands:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>My Saved Searches</bullet>
+				  <bullet>My Properties</bullet>
+				  <bullet>Details</bullet>
+				  <bullet>Location</bullet>
+				  <bullet>Dates</bullet>
+				  <bullet>Elevation/Depth</bullet>
+				  <bullet>Team</bullet>
+				  <bullet>A&amp;D</bullet> 
+				  <bullet>Comments</bullet>
+				  <bullet>Job</bullet>
+				  <bullet>Production</bullet>
+				  <bullet>Event Milestones</bullet>
+			  </bullets>
+			  <paragraph>Use saved searches to rerun a search without having to reenter all the parameters each time. My Properties is a list you create to save the properties that you work with frequently. For any of the other search types, use a combination of parameters to search for properties.</paragraph>
+		  </popText>
+		  
+		  <popImg>
+			<filename>02_00_007_g3.jpg</filename>
+			<alt>Selectable graphic of Search Types Pane.</alt>
+		  </popImg>
+	  </popup>
+
+	</popups>
+
+</page>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<page skip="no" enable_next="yes" dlink="yes" has_graphic="no" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="03">-->
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="no" has_audio="no" layout="v_txt_img" pg_num="03">
+
+	<nav prev_page="01_00_002.html" next_page="01_00_004.html" />
+
+	<mod_title id="2">Course Introduction and CHK Search Overview</mod_title>
+	
+	<pg_title>Navigation Elements</pg_title>
+	
+	<text_content>
+		<paragraph>Before you can successfully complete the course, you need to understand how to effectively navigate the pages. You already know what the NEXT button does, and you could probably guess that the BACK button will return you to the previous page. Let’s look at some of the other options you have on the screen.</paragraph>
+		<paragraph>Sometimes, you will be required to click on selectable elements such as bold text or a graphic. The prompt across the bottom of the page will give you screen-specific instructions as you go through the course. Go ahead – follow the instructions in the prompt.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>01_00_003.png</filename>
+		<alt></alt>
+	</graphic>
+	
+	<prompt>CLICK PLAY TO VIEW THE VIDEO. THEN CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>01_00_003_1</filename>
+			<cc_text>
+				<paragraph>This course has been designed with several features that will help you get the most out of your learning experience. Let’s look at the static elements of the screen – or the parts that remain the same throughout each module.</paragraph>
+				<paragraph>Across the top, and the left and right side of each screen you’ll find the Navigation Elements.</paragraph>
+				<paragraph>Selecting the Resources button launches a page in a new window that contains references, documents, and job aids. The Resources can be accessed at any time throughout the course.</paragraph>
+				<paragraph>When the Glossary button is selected, it launches a page in a new window listing the terms and acronyms used throughout the course. The glossary can be accessed at any time throughout the course.</paragraph>
+				<paragraph>When the Help button is selected, it displays a page in a new window with a list of help options including frequently asked questions (FAQs) and Chesapeake Help Desk information (e.g. phone and email). This help button can be accessed at all times throughout the course. </paragraph>
+				<paragraph>At the top right, you’ll find the Exit button. Selecting the Exit button closes the module and tracks your location in the course, so at a later time you may continue where you left off. If you click this button, you will be prompted to verify that you really do want to quit. If you exit the course in any other way, such as closing the window, your progress will NOT be saved! Because your progress is saved upon exit, it is recommended that you exit the course by clicking the Exit button. Now let’s look at the navigation elements at the bottom of the screen.</paragraph>
+				<paragraph>At the bottom left of each screen you’ll find the page number and Course title.</paragraph>
+				<paragraph>You’ve reached the end of the navigation tutorial portion of this lesson. Close this popup window to continue to the next topic, where you’ll learn about what to expect while taking the course.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative to the video.</linkTxt>
+		<linkTo>Navigation_Elements.pdf</linkTo>
+	</dlink>
+	
+</page>

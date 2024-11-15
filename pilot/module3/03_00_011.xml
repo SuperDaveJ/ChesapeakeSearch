@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="11">
+
+	<nav prev_page="03_00_010.html" next_page="03_00_012.html" />
+
+	<mod_title id="3">Contracts Search</mod_title>
+	
+	<pg_title>Customize Search Results Part 2</pg_title>
+	
+	<text_content>
+		<paragraph>There are about 4 ways to customize search results to change how they are displayed in the Data Grid. In a previous module you learned how to customize search results by using the Sort by Column and Rearrange Columns methods:</paragraph>
+		<bullets type="unordered" columns="2">
+			<bullet>Sort by Column</bullet>
+			<bullet>Rearrange Columns</bullet>
+			<bullet>Change Columns to Display</bullet>
+			<bullet>Group by Column</bullet>
+		</bullets>
+		<paragraph>The demonstration below describes the steps for customizing search results by using the Change Columns to Display and Group by Column methods. Select Play to view the demonstration.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="27">
+		<filename>03_00_011a.png</filename>
+		<alt>Graphic screenshot of the Show Me interaction, with a Play button overlaid.</alt>
+	</graphic>
+	
+	<prompt>SELECT PLAY TO VIEW THE DEMONSTRATION. THEN CLICK THE NEXT AROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>03_00_011_1</filename>
+			<cc_text>
+			  <paragraph>The demonstration below describes the steps for customizing search results by using the Change Columns to Display and Group by Column methods. Select Play to view the demonstration.</paragraph>
+			  <paragraph>On the Search Results Toolbar, click Customize Results.</paragraph>
+			  <paragraph>The Choose Columns to View popup window displays.</paragraph>
+			  <paragraph>You can change the columns to display by either adding or removing columns from the view. To add a column to the Selected columns section, click a column name from the Available columns section. Hold down the CTRL (Control) key on your keyboard to select multiple column names.</paragraph>			  
+			  <paragraph>Click the Right arrows, located between the Available and Selected column sections, to move the highlighted column(s) to the Selected columns section.</paragraph>			  
+			  <paragraph>To remove a column from the Selected columns section, click a column name from the Selected columns section. Hold down the CTRL (Control) key on your keyboard to select multiple column names.</paragraph>			  
+			  <paragraph>Click the Left arrows, located between the Available and Selected column sections, to move the highlighted column(s) to the Available columns section.</paragraph>			  
+			  <paragraph>Click OK, to update how the search results are displayed in the Data Grid.</paragraph>			  
+			  <paragraph>As you can see, the Drop Code and Drop Date columns are no longer displayed to the right of the Contract Name Column. Also notice, that the Short Description column now appears as the last column.</paragraph>			  
+			  <paragraph>You can group search results by any column heading. Left-click on the Down arrows located on the left of a column name. The Contract Type Dropdown list expands.</paragraph>			  
+			  <paragraph>Click Add Grouping.</paragraph>			  
+			  <paragraph>The search results are grouped by the selected column.</paragraph>			  
+			  <paragraph>Click the Down arrow located to the left of the group name to expand the list. </paragraph>			  
+			  <paragraph>Alternately, you can ungroup search results. Left-click on the Down arrows located on the left of the column name that was used to group the results. The Contract Type Dropdown list expands.</paragraph>			  
+			  <paragraph>Click Remove Grouping.</paragraph>			  
+			  <paragraph>The search results are now ungrouped.</paragraph>			  
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative to the demonstration.</linkTxt>
+		<linkTo>03_00_011-p1.pdf</linkTo>
+	</dlink>
+	
+</page>

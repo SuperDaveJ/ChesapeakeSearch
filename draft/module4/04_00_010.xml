@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="yes" has_graphic="yes" has_popup="no" has_audio="yes" layout="v_txt_img" pg_num="10">
+
+	<nav prev_page="04_00_009.html" next_page="04_00_011.html" />
+
+	<mod_title id="4">Leases Search</mod_title>
+	
+	<pg_title>View a Lease’s Detail Page</pg_title>
+	
+	<text_content>
+		<paragraph>The Data Grid displays basic data about each search result. You can access more details for a result on its property detail page.  This method is very similar to how one would find contracts, wells, and sites details.</paragraph>
+		<paragraph>The demonstration below describes the steps for viewing more details on a selected property. Select Play to view the demonstration.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no" top_position="80">
+		<filename>04_00_010.png</filename>
+		<alt>Graphic screenshot of the Show Me interaction, with a Play button overlaid.</alt>
+	</graphic>
+	
+	<prompt>SELECT PLAY TO VIEW THE DEMONSTRATION. THEN CLICK THE NEXT AROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>04_00_010_1</filename>
+			<cc_text>
+			  <paragraph>The Data Grid displays basic data about each search result. You can access more details for a result on its property detail page.  This method is very similar to how one would find contracts and wells, sites details.</paragraph>
+			  <paragraph>The demonstration below describes the steps for viewing more details on a selected property. Select Play to view the demonstration.</paragraph>
+			  <paragraph>You can access a lease’s detail page in 3 ways, one, by clicking on a row, two, by clicking on the hyperlinked lease number, and three, by selecting an option in the Lease Information Dropdown List.</paragraph>
+			  <paragraph>Click on a row. Lease details corresponding to the last selected Lease detail option, displays in the Preview Pane if available. In this example the last selected details option was Team.</paragraph>
+			  <paragraph>Now, let’s try the hyperlink option. Click a hyperlinked lease number in the Lease Number column to access that lease’s detail page. The lease’s detail page opens in a new window.</paragraph>
+			  <paragraph>Property details are organized in tabs.</paragraph>
+			  <paragraph>Click the tab corresponding to the type of information you want to view.</paragraph>			  
+			  <paragraph>To view the selected lease on a map, click on the View Map button located at the top right of the Lease Information window. This also applies to the Wells/Sites and Contracts tab. In the Wells/Sites tab you can also right-click on a property number and select Map from the context menu.</paragraph>			  
+			  <paragraph>You can also access a lease’s detail page by selecting one of the options in the Lease Information Dropdown List located on the right side of the Preview Pane Toolbar.</paragraph>	  
+			  <paragraph>Click on Reports. Reports is displayed in the Lease Information Dropdown List and a list of hyperlinked reports are listed in the Preview Pane.</paragraph>			  
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="file">
+		<linkTxt>Select this link for a text alternative to the demonstration.</linkTxt>
+		<linkTo>04_00_010-p1.pdf</linkTo>
+	</dlink>
+	
+</page>

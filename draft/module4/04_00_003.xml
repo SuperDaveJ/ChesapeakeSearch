@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page type="question" q_type="confirm" enable_next="no" has_graphic="no" layout="full" pg_num="03">
+
+	<nav prev_page="04_00_002.html" next_page="04_00_004.html" />
+
+	<mod_title id="4">Leases Search</mod_title>
+	
+	<pg_title>Knowledge Review</pg_title>
+	
+	<stem>
+		<paragraph>Take a moment now to launch CHK Search and review the information in the “What’s New – Leases” popup window. Confirm you have finished with your review by checking the box below.</paragraph>
+	</stem>
+
+	<distractors>
+		<distractor>I have reviewed the list of new features added to CHK Search.</distractor>
+	</distractors>
+	
+	<prompt>CONFIRM YOU HAVE COMPLETED THE ACTIVITY.</prompt>
+</page>

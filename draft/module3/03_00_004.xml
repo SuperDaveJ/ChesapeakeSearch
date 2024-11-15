@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="04">
+
+	<nav prev_page="03_00_003.html" next_page="03_00_005.html" />
+
+	<mod_title id="3">Contracts Search</mod_title>
+	
+	<pg_title>Topics and objectives for this module</pg_title>
+	
+	<text_content>
+		<paragraph>Let’s review the Learning Objectives for this lesson. After completing this module, you will be able to:</paragraph>
+		<bullets type="unordered">
+			<bullet>Conduct a contracts search</bullet>
+			<bullet>Print a contract data sheet</bullet>
+			<bullet>Export search results to Excel, and</bullet>
+			<bullet>Customize search results by changing which columns to display and grouping by column</bullet>
+		</bullets>
+		<paragraph>On the following page, you’ll learn about the benefits of using the Contracts tab.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>03_00_004.png</filename>
+		<alt>Screenshot of the Contracts tab.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>03_00_004_1</filename>
+			<cc_text>
+			  <paragraph>In addition to providing you with some insights about the benefits of using the Contracts tab, you will get a brief overview of the tab. Then, we will describe in more detail how to define a Contracts XRefs search, print contract data sheets, export search results to Excel and customize search results.</paragraph>
+			  <paragraph>After completing this module, you will be able to:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>Conduct a contracts search</bullet>
+				  <bullet>Print a contract data sheet</bullet>
+				  <bullet>Export search results to Excel, and</bullet>
+				  <bullet>Customize search results by changing which columns to display and grouping by column</bullet>
+			  </bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>

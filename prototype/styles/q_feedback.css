@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document for medium size popup window */
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background:#aaa url(../sysimages/pop-up_medium.png) top left no-repeat;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:normal;
+}
+
+h1.title {
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#2a5081;
+	text-align:center;
+}
+
+h2.heading {
+	font-size:13px;
+	font-weight:bold;
+	padding:8px 0;
+}
+
+p {
+	padding:5px 5px 5px 0;
+}
+
+ul, ol { margin-left: 30px; }
+li { padding: 3px 0; }
+
+#popTitle {
+	position:absolute;
+	left:10px;
+	top:23px;
+	width:423px;
+	height:20px;
+	color:#000;
+}
+
+#popText {
+	position:absolute;
+	left:18px;
+	top:60px;
+	width:413px;
+	height:241px;
+	color:#fff;
+	overflow:auto;
+	padding-right:8px;
+}
+
+#close {
+	position:absolute;
+	left:361px;
+	top:300px;
+	width:75px;
+	height:33px;
+}
+
+a img {
+	border:none;
+	outline:none;
+}

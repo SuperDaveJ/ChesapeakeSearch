@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="yes" has_audio="yes" layout="h_txt_img" pg_num="06">
+
+	<nav prev_page="04_00_005.html" next_page="04_00_007.html" />
+
+	<mod_title id="4">Leases Search</mod_title>
+	
+	<pg_title>Overview of the Contracts tab</pg_title>
+	
+	<text_content>
+		<paragraph>When CHK Search opens in your browser, the Wells/Sites tab is displayed by default. To access the Leases tab, close the “What’s New - Wells” popup window, if displayed, and then click on the Leases tab. This tab allows you to search for specific leases.</paragraph> 
+		<paragraph>Notice that the interface is similar to the Wells/Sites tab and Contracts interfaces. Click on graphic to learn more.</paragraph>
+	</text_content>
+	
+	<graphic selectable="yes">
+		<filename>04_00_006.png</filename>
+		<alt>Selectable screenshot of the Leases tab.</alt>
+		<linkto type="popup"></linkto>
+	</graphic>
+	
+	<prompt>CLICK THE GRAPHIC TO LEARN MORE. THEN CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>04_00_006_1</filename>
+			<cc_text>
+			  <paragraph>When CHK Search opens in your browser, the Wells/Sites tab is displayed by default. To access the Leases tab close the “What’s New - Wells” popup window, if displayed, and then click on the Leases tab. This tab allows you to search for specific leases.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<popups>
+	  <popup id="1" has_image="no">
+		  <popTitle>Overview of the Leases tab</popTitle>
+		  <popText>
+			  <table summary="">
+				<row>
+					<col>Search Sidebar</col>
+					<col>The Search Sidebar contains two main groupings of commands to help you conduct a Leases search and to interact with the results. These are the Search Toolbar, and Search Types.</col>
+				</row>
+				<row>
+					<col>Results Interface</col>
+					<col>All leases that meet the search criteria displays in the Data Grid. Use the commands found in the Search Results Toolbar located above the Data Grid, to interact with the results. Right-clicking on a contract number also displays commands to interact with the results.</col>
+				</row>
+				<row>
+					<col>Preview Pane</col>
+					<col>
+						<paragraph>The Preview Pane, where detailed information on a selected result in the Data Grid displays, is collapsed by default. To view the selected lease’s detailed information, click on the Down arrow located on the right side of the Preview Pane Toolbar. By default, the displayed information matches the last used property information type selected in the Property Information dropdown list.</paragraph>
+						<paragraph>If there is data related to the property information type selected, it will display in the Preview Pane. If no data is found, this will be indicated by a “No Data Found.” message in the Preview Pane.</paragraph>
+					</col>
+				</row>
+			  </table>
+		  </popText>
+		</popup>
+	</popups>
+	
+</page>

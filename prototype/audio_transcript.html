@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Popup Information</title>
+<link rel='stylesheet' type='text/css' href='styles/search_pop.css' />
+
+<script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="scripts/query_function.js"></script>
+
+<script type="text/javascript">
+var pid = parseInt($.getUrlVar('pid'));
+
+$(document).ready(function(e) {
+	$("#popText").html( opener.ccText );
+});
+</script>
+</head>
+
+<body>
+
+<div id='popTitle'><h1 class='popupH'>Audio Transcript</h1></div>
+
+<div id="popText">&nbsp;</div>
+
+<div id="close"><a href="javascript:window.close()"><img src="sysimages/popup_close_0.jpg" onmouseover="this.src='sysimages/popup_close_2.jpg'" onmouseout="this.src='sysimages/popup_close_0.jpg'" width="19" height="18" alt="close" title="close" /></a></div>
+
+</body>
+</html>

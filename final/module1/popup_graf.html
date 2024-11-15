@@ -1,0 +1,120 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Popup Info</title>
+<script type="text/javascript" src="../scripts/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="../scripts/query_function.js"></script>
+<style type="text/css">
+body,div,h1,p,img {
+	padding: 0;
+	margin:	0;
+}
+body {
+	background-color:#5996c8;
+	background-color:#fff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:normal;
+	color:#111;
+}
+img {border:none;}
+
+#popTitle {
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	width: 542px;
+	height: 20px;
+}
+
+h1.popupH	{
+	font-size: 18px;
+	font-weight: bold;
+	color:#8cc63f;
+}
+
+
+#popText {
+	position: absolute;
+	left:20px;
+	top:50px;
+	width:640px;
+	height:120px;
+	font-size:13px;
+	font-weight:normal;
+	line-height: 18px;
+	padding-right:8px;
+	color:#111;
+	overflow:auto;
+}
+
+#graf {
+	position:absolute;
+	left:60px;
+	top:130px;
+	width:585px;
+	height:356px;
+}
+
+#close {
+	position:absolute;
+	left:650px;
+	top:490px;
+	width:19px;
+	height:18px;
+	z-index:5;
+}
+
+p {
+	padding-top: 0;
+	padding-bottom: 10px;
+}
+
+p.secTitle {
+	padding-top: 0;
+	padding-bottom: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+</style>
+<script type="text/javascript">
+
+var pid = parseInt($.getUrlVar('pid'));
+
+$(document).ready(function(e) {
+	//for Shadowbox
+    $("#popTitle>h1.popupH").html( parent.popups[pid-1].popTitle );
+	$("#popText").html(parent.popups[pid-1].popTxt );
+	if (parent.hasPopImg == "yes") {
+		imgHTML = "<img src='images/" + parent.popups[pid-1].imgFile + "' alt='" + parent.popups[pid-1].imgAlt + "' />"
+		$("#graf").html( imgHTML );
+	}
+
+/*
+	//for normal popup window
+    $("#popTitle>h1.popupH").html( opener.popups[pid-1].popTitle );
+	$("#popText").html(opener.popups[pid-1].popTxt );
+	if (opener.hasPopImg == "yes") {
+		imgHTML = "<img src='images/" + opener.popups[pid-1].imgFile + "' alt='" + opener.popups[pid-1].imgAlt + "' />"
+		$("#graf").html( imgHTML );
+	}
+*/
+	
+});
+</script>
+</head>
+
+<body>
+<div id='popTitle'><h1 class='popupH'>&nbsp;</h1></div>
+
+<div id="popText">&nbsp;</div>
+
+<div id="graf">&nbsp;</div>
+
+<div id="close"><a href="javascript:parent.Shadowbox.close()"><img src="../sysimages/popup_close_0.jpg" onmouseover="this.src='../sysimages/popup_close_2.jpg'" onmouseout="this.src='../sysimages/popup_close_0.jpg'" width="19" height="18" alt="close" title="close" /></a></div>
+
+<body>
+</body>
+</html>

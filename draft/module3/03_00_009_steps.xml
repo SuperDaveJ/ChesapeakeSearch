@@ -1,0 +1,25 @@
+<steps>
+    <step>In the Data Grid, check any or all the checkboxes next to the Contract Number(s) to select the contract data sheet(s) to print.</step>
+	<step>Click the Result Actions dropdown list.</step>
+	<step>Click Print Contract Data Sheets.</step>
+	<step>A new bowser window opens and a File Download dialog box displays with information about the generated PDF contract data sheet.</step>
+	<step>Click Open (or Save, to save a copy to a location on your computer, instead of printing a copy).</step>
+	<step>The document opens in your default PDF viewer.</step>
+	<step>In your PDF viewer’s Menu Bar, click File.</step>
+	<step>Click Print.</step>
+	<step>Verify your print settings.</step>
+	<step>Click Print.</step>
+
+	
+</steps>
+
+ 
+ 
+
+
+
+
+
+
+
+

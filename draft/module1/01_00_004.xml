@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="yes" has_audio="no" layout="v_txt_img" pg_num="04">
+
+	<nav prev_page="01_00_003.html" next_page="01_00_005.html" />
+
+	<mod_title id="1">Course Introduction and CHK Search Overview</mod_title>
+	
+	<pg_title>Interacting with the course</pg_title>
+	
+	<text_content>
+		<paragraph>This course is designed to make your learning experience interactive, engaging, and meaningful. It includes a variety of different interactions, including selectable elements, audio narration, and slideshows. For example, whenever you see (??)highlighted text(%??)[##link=popup##], you must click it to view more information in a popup window. </paragraph>
+		<paragraph>You’ve already seen one example of a selectable graphic. Throughout the course, you will see other graphics you can select to launch audio, popup text, tables, or documents.</paragraph>
+		
+	</text_content>
+	
+	<graphic selectable="no" top_position="40" >
+		<filename>01_00_004.jpg</filename>
+		<alt>Screen shot of a course screen that contains a text popup and a website and document appearing to be opening from a mouse click.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE HIGHLIGHTED TEXT TO LEARN MORE. THEN CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="no">
+	  	<audio>
+			<filename></filename>
+			<cc_text>
+				<paragraph></paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<popups>
+	  <popup id="1" has_image="no">
+		  <popTitle>Highlighted Text</popTitle>
+		  <popText>
+			  <paragraph>Selecting the highlighted text will launch a popup box like this one with more information about the topic. Even though you may know the meaning of a word in bold text, it is important to click on it because much more information may be included in the popup box than a simple definition. For example, the popup may contain a table or graphic that can help clarify a concept.</paragraph>
+		  </popText>
+		  
+		  <popImg>
+			<filename>01_00_004_g4.jpg</filename>
+			<alt>Graphic of the Search toolbar with the Search Type dropdown list expanded.</alt>
+		  </popImg>
+		</popup>
+	</popups>
+
+</page>

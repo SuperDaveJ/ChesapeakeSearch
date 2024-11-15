@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" dlink="yes" has_graphic="yes" has_popup="yes" has_audio="yes" layout="h_txt_img" pg_num="06">
+
+	<nav prev_page="05_00_005.html" next_page="05_00_007.html" />
+
+	<mod_title id="5">Map Search</mod_title>
+	
+	<pg_title>Overview of the Map tab</pg_title>
+	
+	<text_content>
+		<paragraph>The Visual Asset Locator (VAL) is a web mapping application used by the Chesapeake Contact Center. This application provides a mapping interface to quickly navigate to a geographic location. Click on each of the numbers on the Map tab screenshot to identify each area.</paragraph>
+		<paragraph>On the following pages, we will discuss each of these areas in more detail.</paragraph>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>05_00_006.png</filename>
+		<alt>Screenshot of the Map tab.</alt>
+	</graphic>
+	
+	<prompt>CLICK EACH OF THE NUMBERS ON THE GRAPHIC TO LEARN MORE. THEN CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>05_00_006-a1</filename>
+			<cc_text>
+				<paragraph>The Visual Asset Locator (VAL) is a web mapping application used by the Chesapeake Contact Center. This application provides a mapping interface to quickly navigate to a geographic location. Click on each of the numbers on the Map tab screenshot below to identify each area.</paragraph>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+	<dlink link_type="508page">
+		<linkTxt>Select this link for a text alternative of the slideshow</linkTxt>
+		<linkTo></linkTo>
+	</dlink>
+	
+	<popups>
+	  <popup id="1" has_image="no">
+		  <popTitle>Application Menu Bar</popTitle>
+		  <popText>
+			  <paragraph></paragraph>
+		  </popText>
+	  </popup>
+
+	  <popup id="2" has_image="no">
+		  <popTitle>Map Interface</popTitle>
+		  <popText>
+			  <paragraph></paragraph>
+		  </popText>
+	  </popup>
+
+	  <popup id="3" has_image="no">
+		  <popTitle>Legend</popTitle>
+		  <popText>
+			  <paragraph></paragraph>
+		  </popText>
+	  </popup>
+
+	  <popup id="4" has_image="no">
+		  <popTitle>Data Grid</popTitle>
+		  <popText>
+			  <paragraph></paragraph>
+		  </popText>
+	  </popup>
+
+	</popups>
+
+</page>

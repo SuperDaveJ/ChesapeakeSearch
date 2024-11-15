@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<manifest identifier="Chesapeake_Search" version="1.0"
+	xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+	xmlns:imsmd = "http://www.imsglobal.org/xsd/imsmd_v1p2" 
+	xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+						http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+						http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+
+<metadata>
+   <schema>ADL SCORM</schema>
+   <schemaversion>1.2</schemaversion>
+   <imsmd:lom> 
+      <imsmd:general> 
+         <imsmd:title> 
+            <imsmd:langstring lang = "en_US">CHK Search</imsmd:langstring> 
+         </imsmd:title> 
+         <imsmd:description> 
+            <imsmd:langstring Lang = "en_US">
+               This course ...
+            </imsmd:langstring> 
+          </imsmd:description> 
+          <imsmd:keywords> 
+            <imsmd:langstring Lang = "en_US">Chesapeake Energy</imsmd:langstring>
+            <imsmd:langstring Lang = "en_US">CHK Search</imsmd:langstring>
+          </imsmd:keywords> 
+      </imsmd:general> 
+   </imsmd:lom> 
+</metadata>
+
+<organizations default = "CHK_Search">
+  <organization identifier = "CHK_Search">
+	 <title><![CDATA[CHK Search]]></title>
+	 <item identifier ="Prototype" identifierref ="Prototype_ref" isvisible = "true">
+		  <title><![CDATA[CHK Search]]></title>
+	 </item>
+  </organization>
+</organizations>
+
+<resources>
+  <resource identifier ="Prototype_ref" type = "webcontent" adlcp:scormtype ="sco" href="index.html">
+	<file href = "index.html"/>
+	<file href = "loading.html"/>
+	<file href = "bottomEmpty.html"/>
+	<file href = "audio_transcript.html"/>
+	<file href = "module5/05_00_001.html"/>
+	<file href = "module5/05_00_002.html"/>
+  </resource>
+</resources>
+
+</manifest>
+

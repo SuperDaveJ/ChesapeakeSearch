@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* for special columns pages only */
+#colHolder {
+	position:relative;
+	width:100%;
+}
+
+#cleft {
+	position:absolute;
+	left:0px;
+	width:410px;
+	height:250px;
+}
+
+#cright {
+	position:absolute;
+	left:443px;
+	width:410px;
+	height:250px;
+}

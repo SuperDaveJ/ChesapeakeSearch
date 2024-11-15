@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page skip="no" enable_next="yes" dlink="no" has_graphic="yes" has_popup="no" has_audio="yes" layout="h_txt_img" pg_num="04">
+
+	<nav prev_page="04_00_003.html" next_page="04_00_005.html" />
+
+	<mod_title id="4">Leases Search</mod_title>
+	
+	<pg_title>Topics and objectives for this module</pg_title>
+	
+	<text_content>
+		<paragraph>Let’s review the Learning Objectives for this lesson. After completing this module, you will be able to:</paragraph>
+		<bullets type="unordered">
+			<bullet>Conduct a lease search</bullet>
+			<bullet>Graph search results, and</bullet>
+			<bullet>Access detailed lease information</bullet>
+		</bullets>
+	</text_content>
+	
+	<graphic selectable="no">
+		<filename>04_00_004.png</filename>
+		<alt>Screenshot of the Leases tab.</alt>
+	</graphic>
+	
+	<prompt>CLICK THE NEXT ARROW TO CONTINUE.</prompt>
+	
+	<audios autoplay="yes">
+	  	<audio>
+			<filename>04_00_004_1</filename>
+			<cc_text>
+			  <paragraph>As you progress through this module you will gain insights about the benefits of using the Leases tab and you will get a brief overview of the tab. Then, you will get more details on how to use dates to find Leases. You will also learn how to graph results, and Access detailed lease information.</paragraph>
+			  <paragraph>After completing this module, you will be able to:</paragraph>
+			  <bullets type="unordered">
+				  <bullet>Conduct a lease search</bullet>
+				  <bullet>Graph search results, and</bullet>
+				  <bullet>Access detailed lease information</bullet>
+			  </bullets>
+			</cc_text>
+	  	</audio>
+	</audios>
+	
+</page>
